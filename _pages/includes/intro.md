@@ -1,5 +1,6 @@
 # 🤖 About Me
-- I’m a Ph.D. candidate in the [School of Information Science and Technology](http://eie.hitsz.edu.cn/) at [Harbin Institute of Technology](https://www.hitsz.edu.cn/), China. 
+- I’m a Ph.D. candidate in the [School of Information Science and Technology](http://eie.hitsz.edu.cn/) at [Harbin Institute of Technology](https://www.hitsz.edu.cn/), China. I’m currently supervised by [Prof. Xu Zhu](https://faculty.hitsz.edu.cn/zhuxu?lang=en), and was previously advised by Prof. Yang Wang, who sadly passed away due to illness. 
+
 
 - My research focuses on robot learning, perception, and navigation, with the goal of enabling autonomous systems to understand and navigate complex environments. I am particularly interested in self-learning frameworks that leverage spatial-temporal cues for building meaningful representations of the world and improving localization and navigation through continuous interaction with dynamic environments. I have authored over 90 peer-reviewed papers in leading robotics venues, including TRO, RAL, RSS, ICRA, IROS, and CVPR. <a href='https://scholar.google.com/citations?user=DvrngV4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FChen-Xieyuanli%2Fchen-xieyuanli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Google%20Scholar"></a>
 
