@@ -9,10 +9,43 @@
 - If you’re interested in joining my team, please email me your CV and a brief statement at [xwzhao@stu.hit.edu.cn](mailto:xwzhao@stu.hit.edu.cn) or [grandzhaoxw@gmail.com] (mailto:grandzhaoxw@gmail.com).  -->
 
 # 🔥 News
+
+
+<style>
+  .news-container {
+    max-height: 8em; /* 高度大约能容纳 4 条 */
+    overflow-y: auto;
+    padding-right: 10px;
+    border: 1px solid #eee;
+    background: #f9f9f9;
+    border-radius: 8px;
+  }
+
+  .news-list {
+    list-style: none;
+    padding-left: 1em;
+    margin: 0;
+  }
+
+  .news-list li {
+    margin-bottom: 0.5em;
+    font-size: 15px;
+  }
+
+  /* 滚动条美化（可选） */
+  .news-container::-webkit-scrollbar {
+    width: 6px;
+  }
+  .news-container::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 3px;
+  }
+</style>
+
 <div class="news-container">
   <ul class="news-list">
-    <li>2024.02: &nbsp;🎉🎉 One paper is accepted by IEEE TVT (Impact Factor: <strong style="color: red; font-weight: bold;">7.1</strong>).</li>
-    <li>2024.07: &nbsp;🎉🎉 Two papers are accepted by IROS 2025.</li>
+    <li>2025.07: &nbsp;🎉🎉 One paper is accepted by IEEE TVT (Impact Factor: <strong style="color: red; font-weight: bold;">7.1</strong>).</li>
+    <li>2025.07: &nbsp;🎉🎉 Two papers are accepted by IROS 2025.</li>
     <li>2025.06: &nbsp;🎉🎉 One paper is accepted by Measurement (Impact Factor: <strong style="color: red; font-weight: bold;">5.6</strong>).</li>
     <li>2025.03: &nbsp;🎉🎉 One paper is accepted by IEEE RAL (Impact Factor: <strong style="color: red; font-weight: bold;">5.3</strong>).</li>
     <li>2024.12: &nbsp;🎉🎉 One papers are accepted by IEEE ROBIO 2024.</li>
