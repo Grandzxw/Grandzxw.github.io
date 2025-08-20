@@ -138,10 +138,16 @@
 ##  SLAM and Gaussian Splatting
 - [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/document/10937714)  [[PDF]](https://arxiv.org/pdf/2503.21338) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
 
-  *IEEE Robotics and Automation Letters **(RA-L 2025)***
+  *IEEE Robotics and Automation Letters **(RAL 2025)***
   
-   Yehui Shen, Lei Zhang, Qingqiu Li, **<u>Xiongwei Zhao</u>**, Yue Wang, Huimin Lu, Xieyuanli Chen
+  Yehui Shen, Lei Zhang, Qingqiu Li, **<u>Xiongwei Zhao</u>**, Yue Wang, Huimin Lu, Xieyuanli Chen
+
+
+- [R2DIO: A Robust and Real-Time Depth-Inertial Odometry Leveraging Multimodal Constraints for Challenging Environments](https://ieeexplore.ieee.org/abstract/document/10268066)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10268066) [![](https://img.shields.io/github/stars/jiejie567/R2DIO?style=social&label=Code+Stars)](https://github.com/jiejie567/R2DIO)
+
+  *IEEE Transactions on Instrumentation and Measurement **(TIM 2023)***
   
+  Jie Xu, Ruifeng Li, Song Huang, **<u>Xiongwei Zhao</u>**, Shuxin Qiu, Zhijun Chen, Lijun Zhao
 
 
 - [Multi-Feature Nonlinear Optimization Motion Estimation Based on RGB-D and Inertial Fusion](https://www.mdpi.com/1424-8220/20/17/4666)  [[PDF]](https://www.mdpi.com/1424-8220/20/17/4666) [![](https://img.shields.io/github/stars/Grandzxw/MRGBD-VIO?style=social&label=Code+Stars)](https://github.com/Grandzxw/MRGBD-VIO)
