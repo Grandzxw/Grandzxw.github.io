@@ -33,6 +33,9 @@
 }
 </style>
 
+
+
+
 <div class="paper-entry">
   <div class="paper-image">
     <img src="images/reslpr.png" alt="GAMap figure">
@@ -55,15 +58,30 @@
 </div>
 
 
-
-
-<div class='paper-box'> <div class='paper-box-image'> <div> <img src='images/reslpr.png' alt="sym" width="200px"> </div> </div> <div class='paper-box-text' markdown="1">
-[GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance](https://neurips.cc/virtual/2024/poster/95755)
-
-Shuaihang Yuan, Hao Huang, Yu Hao, **Congcong Wen**, Anthony Tzes, Yi Fang
-
-<p><a href="https://shalexyuan.github.io/GAMap/"><strong>Project</strong></a> <a href="https://github.com/shalexyuan/GAMap"><strong>Code</strong></a> </p>
-</div> </div>
+<div class="paper-entry">
+  <div class="paper-image">
+    <img src="images/reslpr.png" alt="ResLPR figure">
+  </div>
+  <div class="paper-text">
+    <p>
+      <strong>
+        <a href="https://arxiv.org/abs/2503.12350">
+          ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions
+        </a>
+      </strong>
+      &nbsp;
+      <a href="https://arxiv.org/pdf/2503.12350">[PDF]</a>
+      &nbsp;
+      <a href="https://github.com/nubot-nudt/ResLPR">
+        <img src="https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars" alt="GitHub Stars">
+      </a>
+    </p>
+    <p><em>In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems <strong>(IROS 2025)</strong></em></p>
+    <p>
+      Wenqing Kuang*, <strong><u>Xiongwei Zhao*</u></strong>, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen
+    </p>
+  </div>
+</div>
 
 
 
