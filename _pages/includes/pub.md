@@ -14,8 +14,8 @@
 }
 
 .paper-image img {
-  width: 140px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 6px;
 }
