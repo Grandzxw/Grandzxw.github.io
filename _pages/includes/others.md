@@ -1,9 +1,9 @@
 <span id="educations"></span>
 
 # 📖 Educations
-- **2021.09 - Present**, Ph.D. in University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
-  _Bonn, Germany, SUPERVISOR: Prof. Dr. Xu Zhu and Prof. Dr. Yang Wang_<br>
-  THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles
+- **2021.09 - Present**, Ph.D. in Robotics, Harbin Institute of Technology<br>
+  _Shenzhen, China, SUPERVISOR: Prof. Dr. Xu Zhu and Prof. Dr. Yang Wang_<br>
+  THESIS: Towards Robust Robotic Localization and Perception in Complex Scenarios
 
 - **2018.09 - 2021.06**, M.S. in Mechanical Engineering, University Of Science and Technology Beijing<br>
   _Beijing, China, SUPERVISOR: Prof. Dr. Cunxiao Miao_<br>
@@ -32,8 +32,7 @@
 <span id="academic-services"></span>
 
 # 👨‍🔧 Academic Services
-<h2>Reviewer</h2>
-  <p>
+<p>
   <strong> Journal Review:</strong> IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Instrumentation and Measurement (TIM), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Vehicular Technology (TVT), etc.
 </p>
 <p>
