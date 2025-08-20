@@ -2,7 +2,7 @@
 
 # 📖 Educations
 - **2021.09 - Present**, Ph.D. in University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
-  _Bonn, Germany, SUPERVISOR: Prof. Dr. Cyrill Stachniss_<br>
+  _Bonn, Germany, SUPERVISOR: Prof. Dr. Xu Zhu and Prof. Dr. Yang Wang_<br>
   THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles
 
 - **2018.09 - 2021.06**, M.S. in Mechanical Engineering, University Of Science and Technology Beijing<br>
