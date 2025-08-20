@@ -134,7 +134,7 @@
 
 - [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://arxiv.org/pdf/2504.14806)  [[PDF]](https://arxiv.org/pdf/2504.14806) [![](https://img.shields.io/github/stars/Grandzxw/ITDNet?style=social&label=Code+Stars)](https://github.com/Grandzxw/ITDNet)
 
-  ***(under major revision at IEEE TVT, 2025)***
+  ***(under major revision at TVT, 2025)***
 
   **<u>Xiongwei Zhao</u>**, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun
 
@@ -149,7 +149,7 @@
 
 - [Triplemixer: A 3d point cloud denoising model for adverse weather](https://arxiv.org/pdf/2408.13802?)  [[PDF]](https://arxiv.org/pdf/2408.13802?) [![](https://img.shields.io/github/stars/Grandzxw/TripleMixer?style=social&label=Code+Stars)](https://github.com/Grandzxw/TripleMixer)
 
-  ***(under major revision at IEEE TIP, 2025)***
+  ***(under major revision at TIP, 2025)***
 
   **<u>Xiongwei Zhao</u>**, Congcong Wen, Yang Wang, Haojie Bai, Wenhao Dou
 
@@ -177,6 +177,13 @@
   *IEEE Robotics and Automation Letters **(RAL 2025)***
   
   Yehui Shen, Lei Zhang, Qingqiu Li, **<u>Xiongwei Zhao</u>**, Yue Wang, Huimin Lu, Xieyuanli Chen
+
+
+- [A Graph-Based Method for Efficient Frontier Detection and Traversability Assessment in Autonomous Exploration]()
+
+  *IEEE Chinese Automation Congress **(CAC 2025)***
+
+  Qiming Wang, Yulong Gao, **<u>Xiongwei Zhao</u>**, Yijiao Sun, Xiangyan Kong
 
 
 - [DART: Dual-level Autonomous Robotic Topology for Efficient Exploration in Unknown Environments](https://arxiv.org/pdf/2503.12782)   [[PDF]](https://arxiv.org/pdf/2503.12782)
