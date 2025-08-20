@@ -136,6 +136,22 @@
 
 
 ##  SLAM and Gaussian Splatting
+
+- [Visual place recognition for coastal scenes with semantic and sequential constraints](https://www.sciencedirect.com/science/article/abs/pii/S0263224125014307)   [[PDF]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5123259)
+
+  ***Measurement (Measurement 2025)***
+
+  Rundong Zhou, Yang Wang, Yulong Gao, **<u>Xiongwei Zhao</u>**, Xiang Xu
+
+
+- [SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting](https://arxiv.org/pdf/2503.05174?)  [[PDF]](https://arxiv.org/pdf/2503.05174?) [![](https://img.shields.io/github/stars/Bellakira7/SplatPose?style=social&label=Code+Stars)](https://github.com/Bellakira7/SplatPose)
+
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+
+  Linqi Yang*, **<u>Xiongwei Zhao*</u>**, Qihao Sun, Ke Wang, Ao Chen, Peng Kang 
+
+
+
 - [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/document/10937714)  [[PDF]](https://arxiv.org/pdf/2503.21338) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
 
   *IEEE Robotics and Automation Letters **(RAL 2025)***
@@ -143,12 +159,19 @@
   Yehui Shen, Lei Zhang, Qingqiu Li, **<u>Xiongwei Zhao</u>**, Yue Wang, Huimin Lu, Xieyuanli Chen
 
 
+- [DART: Dual-level Autonomous Robotic Topology for Efficient Exploration in Unknown Environments](https://arxiv.org/pdf/2503.12782)   [[PDF]](https://arxiv.org/pdf/2503.12782)
+
+  ***(arXiv 2025)***
+
+  Qiming Wang, Yulong Gao, Yang Wang, **<u>Xiongwei Zhao</u>**, Yijiao Sun, Xiangyan Kong
+
+
+
 - [Multimodal features and accurate place recognition with robust optimization for lidar–visual–inertial slam](https://ieeexplore.ieee.org/abstract/document/10445759)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10445759) [![](https://img.shields.io/github/stars/Grandzxw/MMF-LVINS?style=social&label=Code+Stars)](https://github.com/Grandzxw/MMF-LVINS)
 
   *IEEE Transactions on Instrumentation and Measurement **(TIM 2024)***
   
   **<u>Xiongwei Zhao</u>**, Congcong Wen, Sai Manoj Prakhya, Hongpei Yin, Rundong Zhou, Yijiao Sun, Jie Xu, Haojie Bai, Yang Wang
-
 
 
 - [R2DIO: A Robust and Real-Time Depth-Inertial Odometry Leveraging Multimodal Constraints for Challenging Environments](https://ieeexplore.ieee.org/abstract/document/10268066)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10268066) [![](https://img.shields.io/github/stars/jiejie567/R2DIO?style=social&label=Code+Stars)](https://github.com/jiejie567/R2DIO)
