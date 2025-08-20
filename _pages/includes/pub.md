@@ -6,6 +6,20 @@
 ##  3D Perception
 
 
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">NeurIPS 2024</div> <img src='images/reslpr.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+[GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance](https://neurips.cc/virtual/2024/poster/95755)
+
+Shuaihang Yuan, Hao Huang, Yu Hao, **Congcong Wen**, Anthony Tzes, Yi Fang
+
+<p><a href="https://shalexyuan.github.io/GAMap/"><strong>Project</strong></a> <a href="https://github.com/shalexyuan/GAMap"><strong>Code</strong></a> </p>
+
+
+<p> 🤖 Robotics</p>
+</div> </div>
+
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='images/reslpr.png' alt="GAMAP image" width="100%">
