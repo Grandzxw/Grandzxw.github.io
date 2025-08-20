@@ -143,6 +143,14 @@
   Yehui Shen, Lei Zhang, Qingqiu Li, **<u>Xiongwei Zhao</u>**, Yue Wang, Huimin Lu, Xieyuanli Chen
 
 
+- [Multimodal features and accurate place recognition with robust optimization for lidar–visual–inertial slam](https://ieeexplore.ieee.org/abstract/document/10445759)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10445759) [![](https://img.shields.io/github/stars/Grandzxw/MMF-LVINS?style=social&label=Code+Stars)](https://github.com/Grandzxw/MMF-LVINS)
+
+  *IEEE Transactions on Instrumentation and Measurement **(TIM 2024)***
+  
+  **<u>Xiongwei Zhao</u>**, Congcong Wen, Sai Manoj Prakhya, Hongpei Yin, Rundong Zhou, Yijiao Sun, Jie Xu, Haojie Bai, Yang Wang
+
+
+
 - [R2DIO: A Robust and Real-Time Depth-Inertial Odometry Leveraging Multimodal Constraints for Challenging Environments](https://ieeexplore.ieee.org/abstract/document/10268066)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10268066) [![](https://img.shields.io/github/stars/jiejie567/R2DIO?style=social&label=Code+Stars)](https://github.com/jiejie567/R2DIO)
 
   *IEEE Transactions on Instrumentation and Measurement **(TIM 2023)***
