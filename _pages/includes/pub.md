@@ -5,6 +5,54 @@
 
 ##  3D Perception
 
+<style>
+.paper-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  gap: 12px; /* 控制左右间距 */
+}
+
+.paper-image img {
+  width: 200px;
+  border-radius: 6px;
+}
+
+.paper-text {
+  font-size: 15px;
+}
+.paper-text a {
+  text-decoration: none;
+  color: #0066cc;
+}
+.paper-text a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
+
+<div class="paper-entry">
+  <div class="paper-image">
+    <img src="images/reslpr.png" alt="GAMap Figure">
+  </div>
+  <div class="paper-text" markdown="1">
+    <p>
+      <strong>
+        <a href="https://neurips.cc/virtual/2024/poster/95755">GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance</a>
+      </strong>
+    </p>
+    <p>Shuaihang Yuan, Hao Huang, Yu Hao, <strong>Congcong Wen</strong>, Anthony Tzes, Yi Fang</p>
+    <p>
+      <a href="https://shalexyuan.github.io/GAMap/"><strong>Project</strong></a>
+      &nbsp;
+      <a href="https://github.com/shalexyuan/GAMap"><strong>Code</strong></a>
+    </p>
+  </div>
+</div>
+
+
+
 
 <div class='paper-box'> <div class='paper-box-image'> <div> <img src='images/reslpr.png' alt="sym" width="200px"> </div> </div> <div class='paper-box-text' markdown="1">
 [GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance](https://neurips.cc/virtual/2024/poster/95755)
