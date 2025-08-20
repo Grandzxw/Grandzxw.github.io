@@ -8,26 +8,29 @@
 <style>
 .paper-entry {
   display: flex;
-  align-items: center;
+  align-items: flex-start;   /* ✅ 顶部对齐，防止跳动 */
   margin-bottom: 20px;
   gap: 12px;
 }
 
 .paper-image img {
-  width: 200px;
+  width: 200px;              /* ✅ 固定宽度 */
+  height: auto;              /* ✅ 自动高度（默认值） */
   border-radius: 6px;
 }
 
 .paper-text {
   font-size: 15px;
-  color: #333;           /* 明确设置字体颜色 */
-  background: none;      /* 清除背景 */
-  opacity: 1;            /* 确保不是透明 */
+  color: #333;
+  background: none;
+  opacity: 1;
 }
+
 .paper-text a {
   text-decoration: none;
   color: #0066cc;
 }
+
 .paper-text a:hover {
   text-decoration: underline;
 }
