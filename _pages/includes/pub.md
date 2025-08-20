@@ -8,7 +8,7 @@
 <style>
 .paper-entry {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   margin-bottom: 20px;
   gap: 12px;
 }
