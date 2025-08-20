@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xieyuanli Chen"
+title                    : "Xiongwei Zhao"
 description              : "Associate Professor at NUDT"
 repository               : "Chen-Xieyuanli/Chen-Xieyuanli.github.io"
 google_scholar_stats_use_cdn : true
@@ -19,10 +19,10 @@ google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
 bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
 baidu_site_verification  : code-ZxFK3f4pfb
 
-    
+
 # Site Author
 author:
-  name             : "Xieyuanli Chen"
+  name             : "Xiongwei Zhao"
   avatar           : "images/my-photo-new.png"
   bio              : "陈谢沅澧"
   location         : "China"
