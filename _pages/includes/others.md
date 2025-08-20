@@ -45,7 +45,7 @@
 </div> -->
 
 
-<div style="float: left; width: 200px; min-height: 100px;">
+<div style="float: left; width: 400px; min-height: 200px;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2sXbHVIu8eH-RfNnxDxl40Lr68lj4-YrLMqKpIZqVtI&cl=ffffff&w=a"></script>
 </div>
 
