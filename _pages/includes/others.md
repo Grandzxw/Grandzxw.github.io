@@ -28,22 +28,14 @@
 </p>
 
 
-## RESEARCH COMMITTEE MEMBERSHIP
+## Academic Working Experience
 - <p style="margin: 0; line-height: 1.2;">
-  <strong>2022.09 ‑ Present</strong> Associate Editor <br>
-  <span style="font-size: 90%;">IEEE Robotics and Automation Letters (RA‑L) </span>
+  <strong>2020.05 ‑ 2020.08,</strong> Research Intern <br>
+  <span style="font-size: 90%;">Huawei Technologies Co., Ltd.</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  <strong>2023, 2024, 2025</strong> Associate Editor <br>
-  <span style="font-size: 90%;">IEEE Intl. Conf. on Robotics & Automation (ICRA) </span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2023, 2024</strong> Associate Editor <br>
-  <span style="font-size: 90%;">IEEE/RSJ Intl. Conf. on Intelligent Robots & Systems (IROS) </span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2019.07 ‑ 2023.07</strong> Technical Committee <br>
-  <span style="font-size: 90%;">RoboCup Rescue Robot League </span>
+  <strong>2020.01 ‑ 2020.04,</strong> Research Assistant <br>
+  <span style="font-size: 90%;">Hong Kong Polytechnic University </span>
   </p>
 
 
