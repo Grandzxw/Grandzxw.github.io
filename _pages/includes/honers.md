@@ -3,26 +3,14 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
-  2024<strong> World’s Top 2% Scientists</strong> <br>
-  <span style="font-size: 90%;">Stanford and Elsevier</span>
+  2021<strong> Excellent Graduate Student</strong> <br>
+  <span style="font-size: 90%;">University Of Science and Technology Beijing</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  2024<strong> Finalist of Best Paper in Robot Learning</strong><br>
-  <span style="font-size: 90%;">IEEE International Conference on Robotics and Biomimetics (ROBIO)</span>
+  2018<strong> National Encouragement Scholarship</strong><br>
+  <span style="font-size: 90%;">Chinese Ministry of Education</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  2022<strong> Summa cum laude (Doctoral degree with distinction, best possible grade)</strong> <br>
-  <span style="font-size: 90%;">University of Bonn</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  2021<strong> RSS Pioneer</strong><br>
-  <span style="font-size: 90%;">Robotics: Science and Systems (RSS)</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  2020<strong> Finalist of Best System Paper</strong><br>
-  <span style="font-size: 90%;">Robotics: Science and Systems (RSS)</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  2021, 2022, 2023<strong> Best‑in‑Class in Rescue Robot League</strong><br>
-  <span style="font-size: 90%;">Rescue Robot League (RRL), RoboCup</span>
+  2018<strong> The First Prize of Honda in China Energy Saving Competition</strong> <br>
+  <span style="font-size: 90%;">Honda</span>
   </p>
