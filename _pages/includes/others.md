@@ -1,17 +1,17 @@
 <span id="educations"></span>
 
 # 📖 Educations
-- **2018.09 - 2022.08**, Ph.D. in University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
+- **2021.09 - Present**, Ph.D. in University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
   _Bonn, Germany, SUPERVISOR: Prof. Dr. Cyrill Stachniss_<br>
   THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles
 
-- **2015.09 - 2017.12**, M.S. in Robotics, National University of Defense Technology<br>
-  _Hunan, China, SUPERVISOR: Prof. Dr. Hui Zhang_<br>
-  THESIS: Binary Visual Feature‑based Monocular SLAM
+- **2018.09 - 2021.06**, M.S. in Mechanical Engineering, University Of Science and Technology Beijing<br>
+  _Beijing, China, SUPERVISOR: Prof. Dr. Cunxiao Miao_<br>
+  THESIS: Multi-Sensor Fusion SLAM Using RGB-D Cameras
 
-- **2011.09 - 2015.07**, B.S. in Electrical Engineering and Automation, Hunan University<br>
-  _Hunan, China, SUPERVISOR: Prof. Dr. Jianhao Tan_<br>
-  THESIS: Control for a Quadrotor UVA
+- **2014.09 - 2018.07**, B.S. in Vehicle Engineering, Xi’an University of Science and Technology<br>
+  _Xi’an, China, SUPERVISOR: Prof. Dr. Shuangfeng Zhao_<br>
+  THESIS: Vision-Based Driver Fatigue Detection
 
 
 
@@ -30,8 +30,8 @@
 
 
 <span id="academic-services"></span>
-# 👨‍🔧 Academic Services
 
+# 👨‍🔧 Academic Services
 <h2>Reviewer</h2>
   <p>
   <strong> Journal Review:</strong> IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Instrumentation and Measurement (TIM), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Vehicular Technology (TVT), etc.
