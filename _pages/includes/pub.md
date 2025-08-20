@@ -5,11 +5,18 @@
 
 ##  3D Perception
 
- - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
 
-   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
-  
-   Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/reslpr.png' alt="GAMAP image" width="100%">
+  </div>
+</div>
+[ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
+
+*In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+
+Wenqing Kuang*, **<u>Xiongwei Zhao*</u>**, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen
+
 
 - [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://arxiv.org/abs/2409.00206) [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
 
