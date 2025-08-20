@@ -62,6 +62,28 @@
 </div>
 
 
+<div class="paper-entry">
+  <div class="paper-image">
+    <img src="images/ITDNET.png" alt="GAMap figure">
+  </div>
+  <div class="paper-text">
+    <p>
+      <strong>
+        <a href="https://neurips.cc/virtual/2024/poster/95755">
+          ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions
+        </a>
+      </strong>
+    </p>
+    <p>Shuaihang Yuan, Hao Huang, Yu Hao, <strong>Congcong Wen</strong>, Anthony Tzes, Yi Fang</p>
+    <p>
+      <a href="https://shalexyuan.github.io/GAMap/"><strong>Project</strong></a>
+      &nbsp;
+      <a href="https://github.com/shalexyuan/GAMap"><strong>Code</strong></a>
+    </p>
+  </div>
+</div>
+
+
 
 <div class="paper-entry">
   <div class="paper-image">
