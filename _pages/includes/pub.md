@@ -6,7 +6,7 @@
 ##  3D Perception
 
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">NeurIPS 2024</div> <img src='images/reslpr.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <img src='images/reslpr.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 [GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance](https://neurips.cc/virtual/2024/poster/95755)
 
 Shuaihang Yuan, Hao Huang, Yu Hao, **Congcong Wen**, Anthony Tzes, Yi Fang
