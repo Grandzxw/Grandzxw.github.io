@@ -16,15 +16,13 @@
 
 <span id="academic-services"></span>
 # 👨‍🔧 Academic Services
-<h2>Reviewer</h2>
-  <h3>Journal Review:</h3>
-  <p>
-  IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Instrumentation and Measurement (TIM), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Vehicular Technology (TVT), etc.
-</p>
 
-  <h3>Conference Review:</h3>
+<h2>Reviewer</h2>
   <p>
-  IEEE/CIC ICCC, IEEE ROBIO, IEEE ICRA, IEEE IROS, etc.
+  Journal Review: IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Instrumentation and Measurement (TIM), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Vehicular Technology (TVT), etc.
+</p>
+<p>
+  Conference Review: IEEE/CIC ICCC, IEEE ROBIO, IEEE ICRA, IEEE IROS, etc.
 </p>
 
 
@@ -39,6 +37,6 @@
   </p>
 
 
-<!-- <div style="float: left;">
+<div style="float: left;">
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=Rb-iP8f5--b43X14KVkJwMa0-GzAr8QqOIuZinWaTII&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
-</div> -->
+</div>
