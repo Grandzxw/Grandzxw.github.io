@@ -151,6 +151,6 @@
 ##  Trajectory Planning and Control
 - [Posterior Cramér–Rao lower bounds for extended target tracking with PMBM conjugate recursion](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70041)   [[PDF]](https://www.researchgate.net/publication/384287230_Posterior_Cramer-Rao_lower_bounds_for_extended_target_tracking_with_PMBM_conjugate_recursion)
 
-*Electronics Letters **(EL)***
+  *Electronics Letters **(EL)***
 
-Xingxiang Xie, **<u>Xiongwei Zhao</u>**, Zhumei Song, Kening Li
+  Xingxiang Xie, **<u>Xiongwei Zhao</u>**, Zhumei Song, Kening Li
