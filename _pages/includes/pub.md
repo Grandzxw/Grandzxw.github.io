@@ -44,7 +44,7 @@
     <p>
       <strong>
         <a href="https://neurips.cc/virtual/2024/poster/95755">
-          GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance
+          ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions
         </a>
       </strong>
     </p>
