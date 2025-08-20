@@ -19,14 +19,14 @@
 
 <h2>Reviewer</h2>
   <p>
-  Journal Review: IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Instrumentation and Measurement (TIM), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Vehicular Technology (TVT), etc.
+  <strong> Journal Review:</strong> IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Instrumentation and Measurement (TIM), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Vehicular Technology (TVT), etc.
 </p>
 <p>
-  Conference Review: IEEE/CIC ICCC, IEEE ROBIO, IEEE ICRA, IEEE IROS, etc.
+  <strong>Conference Review:</strong> IEEE/CIC ICCC, IEEE ROBIO, IEEE ICRA, IEEE IROS, etc.
 </p>
 
 
-## Academic Working Experience
+## Working Experience
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2020.05 ‑ 2020.08,</strong> Research Intern <br>
   <span style="font-size: 90%;">Huawei Technologies Co., Ltd.</span>
