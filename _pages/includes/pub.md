@@ -1,7 +1,15 @@
 <span id="publications"></span>
 
-# 📝 Publications
-##  2025
+# 📝 Publications (* denotes equal contribution; # indicates corresponding author)
+
+##  3D Perception
+
+ - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
+
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
+
 - [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://arxiv.org/abs/2409.00206) [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
 
   *IEEE Transactions on Robotics (**T-RO**)*
@@ -68,6 +76,8 @@
   
    Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
   
+
+##  3D Perception
 - [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/document/10937714)  [[PDF]](https://arxiv.org/pdf/2503.21338) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
@@ -164,11 +174,6 @@
   
    Junyi Ma, Jingyi Xu, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
- - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
-
-   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
-  
-   Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
   
  - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://arxiv.org/abs/2503.11372)  [[PDF]](https://arxiv.org/pdf/2503.11372) [![](https://img.shields.io/github/stars/nubot-nudt/BEVDiffLoc?style=social&label=Code+Stars)](https://github.com/nubot-nudt/BEVDiffLoc)
 
