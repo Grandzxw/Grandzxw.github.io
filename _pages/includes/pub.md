@@ -138,9 +138,9 @@
 ##  SLAM and Gaussian Splatting
 - [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/document/10937714)  [[PDF]](https://arxiv.org/pdf/2503.21338) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
 
-  *IEEE Robotics and Automation Letters **(RA-L)***
+  *IEEE Robotics and Automation Letters **(RA-L 2025)***
   
-   Yehui Shen, Lei Zhang, Qingqiu Li, Xiongwei Zhao, Yue Wang, Huimin Lu, **<u>Xieyuanli Chen</u>**
+   Yehui Shen, Lei Zhang, Qingqiu Li, **<u>Xiongwei Zhao</u>**, Yue Wang, Huimin Lu, Xieyuanli Chen
   
 
 
