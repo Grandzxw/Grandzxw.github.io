@@ -1,6 +1,7 @@
 <span id="publications"></span>
 
-# 📝 Publications (* denotes equal contribution; # indicates corresponding author)
+# 📝 Publications 
+(* denotes equal contribution; # indicates corresponding author)
 
 ##  3D Perception
 
