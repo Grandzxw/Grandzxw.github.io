@@ -13,12 +13,8 @@
 
 <style>
   .news-container {
-    max-height: 8em; /* 高度大约能容纳 4 条 */
+    max-height: 12em; /* 大约显示 4 条 */
     overflow-y: auto;
-    padding-right: 10px;
-    border: 1px solid #eee;
-    background: #f9f9f9;
-    border-radius: 8px;
   }
 
   .news-list {
@@ -41,6 +37,7 @@
     border-radius: 3px;
   }
 </style>
+
 
 <div class="news-container">
   <ul class="news-list">
