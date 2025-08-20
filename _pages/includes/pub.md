@@ -40,7 +40,7 @@
 
 
 
-<!-- <div class="paper-entry">
+<div class="paper-entry">
   <div class="paper-image">
     <img src="images/reslpr.png" alt="GAMap figure">
   </div>
@@ -59,7 +59,7 @@
       <a href="https://github.com/shalexyuan/GAMap"><strong>Code</strong></a>
     </p>
   </div>
-</div> -->
+</div>
 
 
 
