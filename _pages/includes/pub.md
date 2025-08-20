@@ -144,6 +144,12 @@
   
 
 
+- [Multi-Feature Nonlinear Optimization Motion Estimation Based on RGB-D and Inertial Fusion](https://www.mdpi.com/1424-8220/20/17/4666)  [[PDF]](https://www.mdpi.com/1424-8220/20/17/4666) [![](https://img.shields.io/github/stars/Grandzxw/MRGBD-VIO?style=social&label=Code+Stars)](https://github.com/Grandzxw/MRGBD-VIO)
+
+  *Sensors **(Sensors 2020)***
+  
+  **<u>Xiongwei Zhao</u>**, Cunxiao Miao, He Zhang
+
 
 
 ##  2D Perception and LLM
