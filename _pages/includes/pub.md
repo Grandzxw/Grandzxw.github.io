@@ -218,6 +218,13 @@
 
 ##  2D Perception and LLM
 
+- [OMDA: Omni Mask Domain Adaptation for Semantic Segmentation]()
+
+  ***(arXiv 2025)***
+
+  Xinye Yang, **<u>Xiongwei Zhao#</u>**, Jinhang Zhang, Senkang Hu, Zhenjun Zhao, Xiangcheng Hu, Yehui Shen and Xieyuanli Chen
+
+
 - [MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering](https://arxiv.org/pdf/2502.16486)   [[PDF]](https://arxiv.org/pdf/2502.16486)
 
   ***(arXiv 2025)***
