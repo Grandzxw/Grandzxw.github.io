@@ -19,6 +19,10 @@
 
 # 👨‍💼 Work Experience
 - <p style="margin: 0; line-height: 1.2;">
+  <strong>2020.10 ‑ 2021.02,</strong> Research Intern <br>
+  <span style="font-size: 90%;">Narwal Technologies Co., Ltd.</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   <strong>2020.05 ‑ 2020.08,</strong> Research Intern <br>
   <span style="font-size: 90%;">Huawei Technologies Co., Ltd.</span>
   </p>
