@@ -69,9 +69,6 @@
           ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions
         </a>
       </strong>
-      &nbsp;
-      <a href="https://arxiv.org/pdf/2503.12350">[PDF]</a>
-      &nbsp;
       <a href="https://github.com/nubot-nudt/ResLPR">
         <img src="https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars" alt="GitHub Stars">
       </a>
