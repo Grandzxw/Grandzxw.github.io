@@ -10,7 +10,7 @@
   display: flex;
   align-items: flex-start;
   margin-bottom: 20px;
-  gap: 12px; /* 控制左右间距 */
+  gap: 12px;
 }
 
 .paper-image img {
@@ -20,6 +20,9 @@
 
 .paper-text {
   font-size: 15px;
+  color: #333;           /* 明确设置字体颜色 */
+  background: none;      /* 清除背景 */
+  opacity: 1;            /* 确保不是透明 */
 }
 .paper-text a {
   text-decoration: none;
@@ -30,16 +33,16 @@
 }
 </style>
 
-
-
 <div class="paper-entry">
   <div class="paper-image">
-    <img src="images/reslpr.png" alt="GAMap Figure">
+    <img src="images/reslpr.png" alt="GAMap figure">
   </div>
-  <div class="paper-text" markdown="1">
+  <div class="paper-text">
     <p>
       <strong>
-        <a href="https://neurips.cc/virtual/2024/poster/95755">GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance</a>
+        <a href="https://neurips.cc/virtual/2024/poster/95755">
+          GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance
+        </a>
       </strong>
     </p>
     <p>Shuaihang Yuan, Hao Huang, Yu Hao, <strong>Congcong Wen</strong>, Anthony Tzes, Yi Fang</p>
