@@ -159,7 +159,7 @@
 
 - [Visual place recognition for coastal scenes with semantic and sequential constraints](https://www.sciencedirect.com/science/article/abs/pii/S0263224125014307)   [[PDF]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5123259)
 
-  ***Measurement (Measurement 2025)***
+  *Measurement **(Measurement 2025)***
 
   Rundong Zhou, Yang Wang, Yulong Gao, **<u>Xiongwei Zhao</u>**, Xiang Xu
 
