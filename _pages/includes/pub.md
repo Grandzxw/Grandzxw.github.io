@@ -63,29 +63,6 @@
 </div> -->
 
 
-<div class="paper-entry">
-  <div class="paper-image">
-    <img src="images/ITDNET.png" alt="ITDNET figure">
-  </div>
-  <div class="paper-text">
-    <p>
-      <strong>
-        <a href="https://arxiv.org/pdf/2504.14806">
-          An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather
-        </a>
-      </strong>
-      <a href="https://github.com/Grandzxw/ITDNet">
-        <img src="https://img.shields.io/github/stars/Grandzxw/ITDNet?style=social&label=Code+Stars" alt="GitHub Stars">
-      </a>
-    </p>
-    <p><em><strong>(arXiv 2025)</strong></em></p>
-    <p>
-      <strong><u>Xiongwei Zhao*</u></strong>, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun
-    </p>
-  </div>
-</div>
-
-
 
 <div class="paper-entry">
   <div class="paper-image">
@@ -111,6 +88,27 @@
 
 
 
+<div class="paper-entry">
+  <div class="paper-image">
+    <img src="images/ITDNET.png" alt="ITDNET figure">
+  </div>
+  <div class="paper-text">
+    <p>
+      <strong>
+        <a href="https://arxiv.org/pdf/2504.14806">
+          An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather
+        </a>
+      </strong>
+      <a href="https://github.com/Grandzxw/ITDNet">
+        <img src="https://img.shields.io/github/stars/Grandzxw/ITDNet?style=social&label=Code+Stars" alt="GitHub Stars">
+      </a>
+    </p>
+    <p><em><strong>(arXiv 2025)</strong></em></p>
+    <p>
+      <strong><u>Xiongwei Zhao</u></strong>, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun
+    </p>
+  </div>
+</div>
 
 
 
