@@ -3,8 +3,17 @@
 
 - I also maintain close collaborations with [Prof. Xieyuanli Chen](https://scholar.google.com/citations?user=DvrngV4AAAAJ) from the National University of Defense Technology and [Dr. Congcong Wen](https://scholar.google.com.sg/citations?user=OTBgvCYAAAAJ&hl=zh-CN) from Harvard University.
 
-- My research focuses on robot learning, perception, and navigation, with the goal of enabling autonomous systems to understand and navigate complex environments. I am particularly interested in self-learning frameworks that leverage spatial-temporal cues for building meaningful representations of the world and improving localization and navigation through continuous interaction with dynamic environments. I have authored over 90 peer-reviewed papers in leading robotics venues, including TRO, RAL, RSS, ICRA, IROS, and CVPR. <a href='https://scholar.google.com/citations?user=DvrngV4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FChen-Xieyuanli%2Fchen-xieyuanli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Google%20Scholar"></a>
+- My research topics are Robotics and Autonomous Driving. I’m particularly interested in the following areas: 3D Perception, Robot Learning, LLM and Embodied AI. I have authored 10+ peer-reviewed academic papers at the top international robotics journals and conferences, such as TVT, TIM, RAL, IROS, Measurement, and ROBIO. <a href="https://scholar.google.com/citations?user=miv8T6MAAAAJ" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" />
+</a>
 
-# - Here is my extended CV ([pdf](cv/chen_cv.pdf)).
+
+
+
+
+<!-- My research focuses on robot learning, perception, and navigation, with the goal of enabling autonomous systems to understand and navigate complex environments. I am particularly interested in self-learning frameworks that leverage spatial-temporal cues for building meaningful representations of the world and improving localization and navigation through continuous interaction with dynamic environments. I have authored over 90 peer-reviewed papers in leading robotics venues, including TRO, RAL, RSS, ICRA, IROS, and CVPR. <a href='https://scholar.google.com/citations?user=DvrngV4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FChen-Xieyuanli%2Fchen-xieyuanli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Google%20Scholar"></a> -->
+
+
+<!-- - Here is my extended CV ([pdf](cv/chen_cv.pdf)). -->
 
 
