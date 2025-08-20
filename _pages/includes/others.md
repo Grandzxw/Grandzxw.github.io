@@ -16,21 +16,17 @@
 
 <span id="academic-services"></span>
 # 👨‍🔧 Academic Services
-## Reviewer
-
 <h2>Reviewer</h2>
   <h3>Journal Review:</h3>
   <p>
-  Nature Machine Intelligence (NMI), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Pattern Recognition (PR), International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), 
-  IEEE Transactions on Visualization and Computer Graphics (TVCG), ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS P&amp;RS), 
-  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), etc.
+  IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Instrumentation and Measurement (TIM), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Vehicular Technology (TVT), etc.
 </p>
 
   <h3>Conference Review:</h3>
   <p>
-  CVPR 2022/2023/2024, ECCV 2022/2024, ICCV 2023, NeurIPS 2022/2023/2024, ICLR 2023/2024/2025, 
-  AAAI 2023/2024, ICRA 2023/2024, IROS 2023/2024, etc.
+  IEEE/CIC ICCC, IEEE ROBIO, IEEE ICRA, IEEE IROS, etc.
 </p>
+
 
 ## RESEARCH COMMITTEE MEMBERSHIP
 - <p style="margin: 0; line-height: 1.2;">
