@@ -14,9 +14,10 @@
 }
 
 .paper-image img {
-  width: 100px;              /* ✅ 固定宽度 */
-  height: auto;              /* ✅ 自动高度（默认值） */
-  border-radius: 6px;
+  width: 140px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 6px;
 }
 
 
