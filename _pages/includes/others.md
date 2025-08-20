@@ -13,18 +13,25 @@
   _Hunan, China, SUPERVISOR: Prof. Dr. Jianhao Tan_<br>
   THESIS: Control for a Quadrotor UVA
 
-<span id="experience"></span>
-# 👨‍🔧 Working Experience
-## ACADEMIC WORKING EXPERIENCE
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2022.12 ‑ Present</strong> Associate Professor<br>
-  <span style="font-size: 90%;">National University of Defense Technology </span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2019.09 ‑ 2022.09</strong> Research Assistant<br>
-  <span style="font-size: 90%;">University of Bonn </span>
-  </p>
-  
+
+<span id="academic-services"></span>
+# 👨‍🔧 Academic Services
+## Reviewer
+
+<h2>Reviewer</h2>
+  <h3>Journal Review:</h3>
+  <p>
+  Nature Machine Intelligence (NMI), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Pattern Recognition (PR), International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), 
+  IEEE Transactions on Visualization and Computer Graphics (TVCG), ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS P&amp;RS), 
+  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), etc.
+</p>
+
+  <h3>Conference Review:</h3>
+  <p>
+  CVPR 2022/2023/2024, ECCV 2022/2024, ICCV 2023, NeurIPS 2022/2023/2024, ICLR 2023/2024/2025, 
+  AAAI 2023/2024, ICRA 2023/2024, IROS 2023/2024, etc.
+</p>
+
 ## RESEARCH COMMITTEE MEMBERSHIP
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2022.09 ‑ Present</strong> Associate Editor <br>
@@ -44,6 +51,6 @@
   </p>
 
 
-<div style="float: left;">
+<!-- <div style="float: left;">
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=Rb-iP8f5--b43X14KVkJwMa0-GzAr8QqOIuZinWaTII&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
-</div>
+</div> -->
