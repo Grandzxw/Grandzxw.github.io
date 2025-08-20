@@ -149,6 +149,20 @@
 
 
 ##  Trajectory Planning and Control
+
+- [A Robust Cooperative Vehicle Coordination Framework for Intersection Crossing](https://arxiv.org/pdf/2508.03417)   [[PDF]](https://arxiv.org/pdf/2508.03417)
+
+  *IEEE Transactions on Vehicular Technology **(TVT)***
+
+  Haojie Bai, Jiping Luo, Huafu Li, **<u>Xiongwei Zhao</u>**, Yang Wang
+
+
+- [Robust Motion Coordination with Covariance Steering Model Predictive Control in Bandwidth Limited Scenarios](https://ieeexplore.ieee.org/abstract/document/10907325)   [[PDF]](https://ieeexplore.ieee.org/abstract/document/10907325)
+
+  *IEEE International Conference on Robotics and Biomimetics **(ROBIO 2024)***
+
+  Haojie Bai, Hai Zhu, **<u>Xiongwei Zhao</u>**, Huafu Li, Yang Wang
+
 - [Posterior Cramér–Rao lower bounds for extended target tracking with PMBM conjugate recursion](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70041)   [[PDF]](https://www.researchgate.net/publication/384287230_Posterior_Cramer-Rao_lower_bounds_for_extended_target_tracking_with_PMBM_conjugate_recursion)
 
   *Electronics Letters **(EL)***
