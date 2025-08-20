@@ -1,7 +1,7 @@
 <span id="educations"></span>
 
 # 📖 Educations
-- **2018.09 - 2022.08**, Dr.‑Ing., University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
+- **2018.09 - 2022.08**, Ph.D. in University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
   _Bonn, Germany, SUPERVISOR: Prof. Dr. Cyrill Stachniss_<br>
   THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles
 
@@ -14,6 +14,21 @@
   THESIS: Control for a Quadrotor UVA
 
 
+
+<span id="working-experience"></span>
+
+# 👨‍💼 Work Experience
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2020.05 ‑ 2020.08,</strong> Research Intern <br>
+  <span style="font-size: 90%;">Huawei Technologies Co., Ltd.</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2020.01 ‑ 2020.04,</strong> Research Assistant <br>
+  <span style="font-size: 90%;">Hong Kong Polytechnic University </span>
+  </p>
+
+
+
 <span id="academic-services"></span>
 # 👨‍🔧 Academic Services
 
@@ -24,17 +39,6 @@
 <p>
   <strong>Conference Review:</strong> IEEE/CIC ICCC, IEEE ROBIO, IEEE ICRA, IEEE IROS, etc.
 </p>
-
-
-## Working Experience
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2020.05 ‑ 2020.08,</strong> Research Intern <br>
-  <span style="font-size: 90%;">Huawei Technologies Co., Ltd.</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2020.01 ‑ 2020.04,</strong> Research Assistant <br>
-  <span style="font-size: 90%;">Hong Kong Polytechnic University </span>
-  </p>
 
 
 <div style="float: left;">
