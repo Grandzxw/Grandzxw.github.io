@@ -132,11 +132,26 @@
 
 ##  3D Perception
 
+- [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://arxiv.org/pdf/2504.14806)  [[PDF]](https://arxiv.org/pdf/2504.14806) [![](https://img.shields.io/github/stars/Grandzxw/ITDNet?style=social&label=Code+Stars)](https://github.com/Grandzxw/ITDNet)
+
+  ***(under major revision at IEEE TVT, 2025)***
+
+  **<u>Xiongwei Zhao</u>**, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun
+
+
+- [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/pdf/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
+
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+
+  Wenqing Kuang*, **<u>Xiongwei Zhao*</u>**, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen 
+
+
+
 - [Triplemixer: A 3d point cloud denoising model for adverse weather](https://arxiv.org/pdf/2408.13802?)  [[PDF]](https://arxiv.org/pdf/2408.13802?) [![](https://img.shields.io/github/stars/Grandzxw/TripleMixer?style=social&label=Code+Stars)](https://github.com/Grandzxw/TripleMixer)
 
   ***(under major revision at IEEE TIP, 2025)***
 
-  Xiongwei Zhao, Congcong Wen, Yang Wang, Haojie Bai, Wenhao Dou
+  **<u>Xiongwei Zhao</u>**, Congcong Wen, Yang Wang, Haojie Bai, Wenhao Dou
 
 
 
