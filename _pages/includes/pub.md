@@ -135,95 +135,21 @@
 
 
 
-<!-- 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/reslpr.png' alt="GAMAP image" width="100%">
-  </div>
-</div>
-[ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
-
-*In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
-
-Wenqing Kuang*, **<u>Xiongwei Zhao*</u>**, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen
- -->
-
-
-
-- [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://arxiv.org/abs/2409.00206) [[PDF]](https://arxiv.org/pdf/2409.00206)  [![](https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars)](https://github.com/lus6-Jenny/RINGSharp)
-
-  *IEEE Transactions on Robotics (**T-RO**)*
-  
-  Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
-
-- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://arxiv.org/abs/2408.01841) [[PDF]](https://arxiv.org/pdf/2408.01841)  [![](https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars)](https://github.com/zjuluolun/BEVPlace2)
-
-  *IEEE Transactions on Robotics (**T-RO**)*
-  
-  Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
-  
- - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10993479/)  [![](https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SegNet4D)
-
-   *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
-
-   Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
-
- - [TiCoSS: Tightening the coupling between semantic segmentation and stereo matching within a joint learning framework](https://ieeexplore.ieee.org/abstract/document/11072253/) [[PDF]](https://arxiv.org/pdf/2407.18038) 
-
-   *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
-
-   Guanfeng Tang, Zhiyuan Wu, Jiahang Li, Ping Zhong, Wei Ye, **<u>Xieyuanli Chen</u>**, Huimin Lu, Rui Fan
-   
-- [Robust Visual Place Recognition Under Variational Views](https://ieeexplore.ieee.org/abstract/document/11052616)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/11052616) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
-
-  *IEEE Transactions on Industrial Informatics **(T-II)***
-
-  Junlang Huang, Defu Lin, Jie Du, Xinyu Jiang, Chuangquan Chen,  **<u>Xieyuanli Chen</u>**, Yimin Zhou, Chi-Man Vong
-  
-- [DSBEV: Docking Space Segmentation for Autonomous Surface Vehicle in Bird's Eye View](https://ieeexplore.ieee.org/abstract/document/11017376/)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/11017376/) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
-
-  *IEEE Transactions on Industrial Informatics **(T-II)***
-
-  Changsong Pang, Xiaomin Zhang, **<u>Xieyuanli Chen</u>**, Hu Xu, Yang Yu, Yuwei Cheng
-   
-- [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10898027)
-
-  *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
-  
-  Qi Wu, **<u>Xieyuanli Chen</u>**, Xiangyu Xu, Xinliang Zhong, Xingwei Qu, Songpengcheng Xia, Guoqing Liu, Liu Liu, Wenxian Yu, Ling Pei
-  
-- [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://ieeexplore.ieee.org/abstract/document/10981980/) [[PDF]](https://arxiv.org/pdf/2410.13240)  [![](https://img.shields.io/github/stars/Yaepiii/TRLO?style=social&label=Code+Stars)](https://github.com/Yaepiii/TRLO)
-
-  *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
-  
-  Yanpeng Jia, Ting Wang, **<u>Xieyuanli Chen</u>**, Shiliang Shao
-  
- - [RID-Net: A Hybrid MLP-Transformer network for Robust Point Cloud Registration](https://ieeexplore.ieee.org/document/10910198) [[PDF]](https://ieeexplore.ieee.org/document/10910198)  [![](https://img.shields.io/github/stars/PANFEI-CHENG/RID-Net?style=social&label=Code+Stars)](https://github.com/PANFEI-CHENG/RID-Net)
-
-   *IEEE Robotics and Automation Letters **(RA-L)***
-  
-   Panfei Cheng, Hongshan Yu, Changxiang Liu, Kan Luo, Naveed Akhtar, **<u>Xieyuanli Chen</u>**
-
- - [SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology](https://ieeexplore.ieee.org/abstract/document/10891171) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10891171)  [![](https://img.shields.io/github/stars/ROBOT-WSC/SGT-LLC?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/SGT-LLC)
-
-   *IEEE Robotics and Automation Letters **(RA-L)***
-  
-   Shaocong Wang, Fengkui Cao, Ting Wang,**<u>Xieyuanli Chen</u>**, Shiliang Shao
-  
-- [NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks](https://ieeexplore.ieee.org/abstract/document/10839327)  [[PDF]](https://arxiv.org/pdf/2408.15663)  
-
-  *IEEE Robotics and Automation Letters **(RA-L)***
-  
-   Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
-  
-
-##  3D Perception
+##  SLAM and Gaussian Splatting
 - [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/document/10937714)  [[PDF]](https://arxiv.org/pdf/2503.21338) [![](https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/UGNA-VPR)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
    Yehui Shen, Lei Zhang, Qingqiu Li, Xiongwei Zhao, Yue Wang, Huimin Lu, **<u>Xieyuanli Chen</u>**
   
+
+
+##  2D Perception
+
+
+##  Trajectory Planning and Control
+
+
 - [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment](https://ieeexplore.ieee.org/document/10845798) [[PDF]](https://ieeexplore.ieee.org/document/10845798) [![](https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars)](https://github.com/ROBOT-WSC/BEV-LSLAM)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
