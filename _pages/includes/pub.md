@@ -14,10 +14,9 @@
 }
 
 .paper-image img {
-  width: 200px;
-  height: 130px;  /* ✅ 统一高度（你可以根据实际内容调） */
-  object-fit: cover;  /* ✅ 裁剪填充，不拉伸变形 */
-  border-radius: 6px;
+  width: 200px;              /* ✅ 固定宽度 */
+  height: auto;              /* ✅ 自动高度（默认值） */
+  border-radius: 6px;
 }
 
 
