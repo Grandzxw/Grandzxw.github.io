@@ -144,6 +144,8 @@
   
 
 
+
+
 ##  2D Perception and LLM
 
 - [MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering](https://arxiv.org/pdf/2502.16486)   [[PDF]](https://arxiv.org/pdf/2502.16486)
@@ -155,14 +157,14 @@
 
 - [A real-time scene parsing network for autonomous maritime transportation](https://ieeexplore.ieee.org/abstract/document/9999384)   [[PDF]](https://ieeexplore.ieee.org/abstract/document/9999384)
 
-  *IEEE Transactions on Instrumentation and Measurement **(TIM)***
+  *IEEE Transactions on Instrumentation and Measurement **(TIM 2022)***
 
   Rundong Zhou, Yulong Gao, Yang Wang, Xingxiang Xie, **<u>Xiongwei Zhao</u>**
 
 
 - [Collision-free waterway segmentation for inland unmanned surface vehicles](https://ieeexplore.ieee.org/abstract/document/9755264)   [[PDF]](https://ieeexplore.ieee.org/abstract/document/9755264)
 
-  *IEEE Transactions on Instrumentation and Measurement **(TIM)***
+  *IEEE Transactions on Instrumentation and Measurement **(TIM 2022)***
 
   Rundong Zhou, Yulong Gao, Peng Wu, **<u>Xiongwei Zhao</u>**, Wenhao Dou, Chenyang Sun, Yu Zhong, Yang Wang
 
@@ -172,7 +174,7 @@
 
 - [A Robust Cooperative Vehicle Coordination Framework for Intersection Crossing](https://arxiv.org/pdf/2508.03417)   [[PDF]](https://arxiv.org/pdf/2508.03417)
 
-  *IEEE Transactions on Vehicular Technology **(TVT)***
+  *IEEE Transactions on Vehicular Technology **(TVT 2025)***
 
   Haojie Bai, Jiping Luo, Huafu Li, **<u>Xiongwei Zhao</u>**, Yang Wang
 
@@ -185,6 +187,6 @@
 
 - [Posterior Cramér–Rao lower bounds for extended target tracking with PMBM conjugate recursion](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70041)   [[PDF]](https://www.researchgate.net/publication/384287230_Posterior_Cramer-Rao_lower_bounds_for_extended_target_tracking_with_PMBM_conjugate_recursion)
 
-  *Electronics Letters **(EL)***
+  *Electronics Letters **(EL 2024)***
 
   Xingxiang Xie, **<u>Xiongwei Zhao</u>**, Zhumei Song, Kening Li
