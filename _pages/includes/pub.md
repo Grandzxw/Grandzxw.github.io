@@ -21,7 +21,6 @@
 }
 
 
-
 .paper-text {
   font-size: 15px;
   color: #333;
