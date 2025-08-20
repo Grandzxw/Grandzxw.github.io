@@ -3,9 +3,7 @@
 # 📝 Publications 
 (* denotes equal contribution; # indicates corresponding author)
 
-##  3D Perception
-
-<style>
+<!-- <style>
 .paper-entry {
   display: flex;
   align-items: flex-start;   /* ✅ 顶部对齐，防止跳动 */
@@ -130,8 +128,15 @@
       <strong><u>Xiongwei Zhao</u></strong>, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun
     </p>
   </div>
-</div>
+</div> -->
 
+##  3D Perception
+
+- [Triplemixer: A 3d point cloud denoising model for adverse weather](https://arxiv.org/pdf/2408.13802?)  [[PDF]](https://arxiv.org/pdf/2408.13802?) [![](https://img.shields.io/github/stars/Grandzxw/TripleMixer?style=social&label=Code+Stars)](https://github.com/Grandzxw/TripleMixer)
+
+  ***(under major revision at IEEE TIP, 2025)***
+
+  Xiongwei Zhao, Congcong Wen, Yang Wang, Haojie Bai, Wenhao Dou
 
 
 
