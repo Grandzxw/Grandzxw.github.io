@@ -1,5 +1,5 @@
 # 🤖 About Me
-- I’m a Ph.D. candidate in the [School of Information Science and Technology](http://eie.hitsz.edu.cn/) at [Harbin Institute of Technology](https://www.hitsz.edu.cn/), China. I’m currently supervised by [Prof. Xu Zhu](https://faculty.hitsz.edu.cn/zhuxu?lang=en). I was previously advised by the late Prof. Yang Wang, whose passing was a great loss. I remain grateful for his guidance. 
+- I’m a Ph.D. candidate in the [School of Information Science and Technology](http://eie.hitsz.edu.cn/English.htm) at [Harbin Institute of Technology](http://en.hitsz.edu.cn/), China. I’m currently supervised by [Prof. Xu Zhu](https://faculty.hitsz.edu.cn/zhuxu?lang=en). I was previously advised by the late Prof. Yang Wang, whose passing was a great loss. I remain grateful for his guidance. 
 
 - I also maintain close collaborations with [Prof. Xieyuanli Chen](https://scholar.google.com/citations?user=DvrngV4AAAAJ) from the National University of Defense Technology, [Dr. Congcong Wen](https://scholar.google.com.sg/citations?user=OTBgvCYAAAAJ&hl=zh-CN) from Harvard University and [Dr. Sai Manoj Prakhya](https://scholar.google.com.sg/citations?user=877khTcAAAAJ&hl=zh-CN) from Applied Intuition.
 
