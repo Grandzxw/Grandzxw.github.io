@@ -256,6 +256,13 @@
   Haojie Bai, Jiping Luo, Huafu Li, **<u>Xiongwei Zhao</u>**, Yang Wang
 
 
+- [Robust Real-Time Coordination of CAVs: A Distributed Optimization Framework under Uncertainty](https://arxiv.org/abs/2508.21322)   [[PDF]](https://arxiv.org/abs/2508.21322)
+
+  ***(arXiv 2025)***
+
+  Haojie Bai, Yang Wang, Cong Guo, **<u>Xiongwei Zhao</u>**, Hai Zhu
+  
+
 - [Robust Motion Coordination with Covariance Steering Model Predictive Control in Bandwidth Limited Scenarios](https://ieeexplore.ieee.org/abstract/document/10907325)   [[PDF]](https://ieeexplore.ieee.org/abstract/document/10907325)
 
   *IEEE International Conference on Robotics and Biomimetics **(ROBIO 2024)***
