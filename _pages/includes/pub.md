@@ -151,7 +151,7 @@
 
   *IEEE Transactions on Image Processing **(TIP 2025)***
 
-  **<u>Xiongwei Zhao</u>**, Congcong Wen, Yang Wang, Haojie Bai, Wenhao Dou
+  **<u>Xiongwei Zhao</u>**, Congcong Wen, Xu Zhu, Yang Wang, Haojie Bai, Wenhao Dou
 
 
 
