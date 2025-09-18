@@ -41,6 +41,7 @@
 
 <div class="news-container">
   <ul class="news-list">
+    <li>2025.08: &nbsp;🎉🎉 One paper is accepted by IEEE TIP 2025.</li>
     <li>2025.08: &nbsp;🎉🎉 One paper is accepted by IEEE CAC 2025.</li>
     <li>2025.07: &nbsp;🎉🎉 One paper is accepted by IEEE TVT (Impact Factor: <strong style="color: red; font-weight: bold;">7.1</strong>).</li>
     <li>2025.07: &nbsp;🎉🎉 Two papers are accepted by IEEE IROS 2025.</li>

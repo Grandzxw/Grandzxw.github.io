@@ -149,7 +149,7 @@
 
 - [Triplemixer: A 3d point cloud denoising model for adverse weather](https://arxiv.org/pdf/2408.13802?)  [[PDF]](https://arxiv.org/pdf/2408.13802?) [![](https://img.shields.io/github/stars/Grandzxw/TripleMixer?style=social&label=Code+Stars)](https://github.com/Grandzxw/TripleMixer)
 
-  ***(under major revision at TIP, 2025)***
+  *IEEE Transactions on Image Processing **(TIP 2025)***
 
   **<u>Xiongwei Zhao</u>**, Congcong Wen, Yang Wang, Haojie Bai, Wenhao Dou
 
