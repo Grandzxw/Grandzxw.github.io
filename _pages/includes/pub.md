@@ -251,7 +251,7 @@
 
 - [A PMBM forward-backward smoother for multi-target tracking of point sources](https://link.springer.com/article/10.1007/s44443-025-00253-6)   [[PDF]](https://link.springer.com/epdf/10.1007/s44443-025-00253-6?sharing_token=aspCP9dyz0-urlESOwsRxfe4RwlQNchNByi7wbcMAY57VDgZTIFEovuzobn_711JoMDnccGdOoO7WMH1U7GAOPiGYJ9gaDdhjJVcrF9kBMRLgo278qvS51IEzhzkR7utLuhu_ajX_aEYu56CoR3BT5HpVt__qLh-Bgt-PTAsBLI%3D)
 
-  *Journal of King Saud University Computer and Information Sciences **(EL 2024)***
+  *Journal of King Saud University Computer and Information Sciences **(J. King Saud Univ. Comput. Inf. Sci. 2025)***
 
   Xingxiang Xie, **<u>Xiongwei Zhao</u>**, Zhumei Song, Kening Li
 
