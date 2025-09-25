@@ -41,6 +41,7 @@
 
 <div class="news-container">
   <ul class="news-list">
+    <li>2025.09: &nbsp;🎉🎉 One paper is accepted by J. King Saud Univ. Comput. Inf. Sci. (Impact Factor: <strong style="color: red; font-weight: bold;">6.1</strong>).</li>
     <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE TIP (Impact Factor: <strong style="color: red; font-weight: bold;">13.7</strong>).</li>
     <li>2025.08: &nbsp;🎉🎉 One paper is accepted by IEEE CAC 2025.</li>
     <li>2025.07: &nbsp;🎉🎉 One paper is accepted by IEEE TVT (Impact Factor: <strong style="color: red; font-weight: bold;">7.1</strong>).</li>
