@@ -3,7 +3,7 @@
 
 - I also maintain close collaborations with [Prof. Xieyuanli Chen](https://scholar.google.com/citations?user=DvrngV4AAAAJ) from the National University of Defense Technology, [Dr. Congcong Wen](https://scholar.google.com.sg/citations?user=OTBgvCYAAAAJ&hl=zh-CN) from Harvard University and [Dr. Sai Manoj Prakhya](https://scholar.google.com.sg/citations?user=877khTcAAAAJ&hl=zh-CN) from Applied Intuition.
 
-- My research topics are Robotics and Autonomous Driving. I’m particularly interested in the following areas: 3D Perception, Robot Learning, LLM and Embodied AI. I have authored 20+ peer-reviewed academic papers at the top international robotics journals and conferences, such as TIP, RAL, TVT, TIM, Measurement, IROS, and ROBIO. 
+- My research topics are Robotics and Autonomous Driving. I’m particularly interested in the following areas: 3D Perception, World Model, LLM and Embodied AI. I have authored 20+ peer-reviewed academic papers at the top international robotics journals and conferences, such as TIP, RAL, TVT, TIM, Measurement, IROS, and ROBIO. 
 
 <!-- <a href="https://scholar.google.com/citations?user=miv8T6MAAAAJ" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" />
