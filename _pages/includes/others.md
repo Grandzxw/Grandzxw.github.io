@@ -36,6 +36,14 @@
 <span id="academic-services"></span>
 
 # 👨‍🔧 Academic Services
+
+<p><strong>Journal Reviewer</strong><br>
+- IEEE TASE<br>
+- IEEE TIM<br>
+- IEEE RAL<br>
+- IEEE TVT
+</p>
+
 <p>
   <strong> Journal Reviewer</strong> 
 - IEEE Transactions on Automation Science and Engineering (TASE)
