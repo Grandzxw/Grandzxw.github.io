@@ -38,10 +38,10 @@
 # 👨‍🔧 Academic Services
 
 <p><strong>Journal Reviewer</strong><br>
-IEEE Transactions on Automation Science and Engineering (TASE)<br>
-IEEE Transactions on Instrumentation and Measurement (TIM) <br>
-IEEE Robotics and Automation Letters (RAL)<br>
-IEEE Transactions on Vehicular Technology (TVT)
+&bull; IEEE Transactions on Automation Science and Engineering (TASE)<br>
+&bull; IEEE Transactions on Instrumentation and Measurement (TIM)<br>
+&bull; IEEE Robotics and Automation Letters (RAL)<br>
+&bull; IEEE Transactions on Vehicular Technology (TVT)
 </p>
 
 <!-- <p>
