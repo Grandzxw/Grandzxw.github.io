@@ -53,10 +53,10 @@
 </p> -->
 
 <p><strong>Conference Reviewer</strong><br>
-IEEE International Conference on Robotics and Automation (ICRA)<br>
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)<br>
-IEEE International Conference on Robotics and Biomimetics (ROBIO)<br>
-IEEE International Conference on Communications in China Workshops (ICCC)
+&bull; IEEE International Conference on Robotics and Automation (ICRA)<br>
+&bull; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)<br>
+&bull; IEEE International Conference on Robotics and Biomimetics (ROBIO)<br>
+&bull; IEEE International Conference on Communications in China Workshops (ICCC)
 </p>
 
 
