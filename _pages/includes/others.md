@@ -37,6 +37,15 @@
 
 # 👨‍🔧 Academic Services
 
+
+<p><strong>Invited Talks</strong><br>
+&bull; 3D Robust Perception: Improving Autonomous Driving Perception in Adverse Weather
+  <span style="margin-left:8px;">2025.10.16</span><br>
+&nbsp;&nbsp;Host: Xiaoliu Cheng. CVLife, Shenzhen, China.
+  <a href="https://www.bilibili.com/video/BV1dAWkz9ERS/?spm_id_from=333.337.search-card.all.click" target="_blank" rel="noopener">Link</a>
+</p>
+
+
 <p><strong>Journal Reviewer</strong><br>
 &bull; IEEE Transactions on Automation Science and Engineering (TASE)<br>
 &bull; IEEE Transactions on Instrumentation and Measurement (TIM)<br>
@@ -60,12 +69,6 @@
 </p>
 
 
-<p><strong>Invited Talks</strong><br>
-&bull; 3D Robust Perception: Improving Autonomous Driving Perception in Adverse Weather
-  <span style="margin-left:8px;">2025.10.16</span><br>
-&nbsp;&nbsp;Host: Xiaoliu Cheng, CVLife, Shenzhen, China.
-  <a href="https://www.bilibili.com/video/BV1dAWkz9ERS/?spm_id_from=333.337.search-card.all.click" target="_blank" rel="noopener">Link</a>
-</p>
 
 
 
