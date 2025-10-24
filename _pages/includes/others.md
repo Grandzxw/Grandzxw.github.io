@@ -60,6 +60,16 @@
 </p>
 
 
+<p><strong>Invited Talks</strong><br>
+&bull; 3D Robust Perception: Improving Autonomous Driving Perception in Adverse Weather
+  <span style="margin-left:8px;">2025.10.16</span><br>
+&nbsp;&nbsp;Host: Xiaoliu Cheng, CVLife, Shenzhen, China.
+  <a href="https://www.bilibili.com/video/BV1dAWkz9ERS/?spm_id_from=333.337.search-card.all.click" target="_blank" rel="noopener">Link</a>
+</p>
+
+
+
+
 <!-- <div style="float: left;">
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=Rb-iP8f5--b43X14KVkJwMa0-GzAr8QqOIuZinWaTII&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
 </div> -->
