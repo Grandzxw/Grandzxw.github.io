@@ -147,7 +147,7 @@
 
 
 
-- [Triplemixer: A 3d point cloud denoising model for adverse weather](https://arxiv.org/pdf/2408.13802?)  [[PDF]](https://arxiv.org/pdf/2408.13802?) [![](https://img.shields.io/github/stars/Grandzxw/TripleMixer?style=social&label=Code+Stars)](https://github.com/Grandzxw/TripleMixer)
+- [TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather](https://ieeexplore.ieee.org/document/11262787)  [[PDF]](https://arxiv.org/pdf/2408.13802?) [![](https://img.shields.io/github/stars/Grandzxw/TripleMixer?style=social&label=Code+Stars)](https://github.com/Grandzxw/TripleMixer)
 
   *IEEE Transactions on Image Processing **(TIP 2025)***
 
@@ -227,7 +227,7 @@
 
 - [MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering](https://arxiv.org/pdf/2502.16486)   [[PDF]](https://arxiv.org/pdf/2502.16486)
 
-  ***(arXiv 2025)***
+  ***(Scientific Reports 2025)***
 
   Caixiong Li*, **<u>Xiongwei Zhao*</u>**, Jinhang Zhang, Xing Zhang, Qihao Sun, Zhou Wu
 
