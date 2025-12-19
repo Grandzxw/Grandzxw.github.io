@@ -5,10 +5,6 @@
 
 - My research topics are Robotics and Autonomous Driving. I’m particularly interested in the following areas: 3D Perception, World Model, LLM and Embodied AI. I have authored 20+ peer-reviewed academic papers at the top international robotics journals and conferences, such as TIP, RAL, TVT, TIM, Measurement, IROS, and ROBIO. 
 
-<a href="https://scholar.google.com/citations?user=miv8T6MAAAAJ" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" />
-</a>
-
 
 - If you’re interested in my research or would like to collaborate, please feel free to contact me via [xwzhao@stu.hit.edu.cn](mailto:xwzhao@stu.hit.edu.cn) or [grandzhaoxw@gmail.com](mailto:grandzhaoxw@gmail.com). I am also actively seeking postdoctoral or industry opportunities in Robotics, 3D Perception, Embodied AI, and related fields. Please don’t hesitate to reach out if there are any openings.
 
