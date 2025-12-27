@@ -41,6 +41,7 @@
 
 <div class="news-container">
   <ul class="news-list">
+    <li>2025.12: &nbsp;🎉🎉 One paper is accepted by IEEE GRSL (Impact Factor: <strong style="color: red; font-weight: bold;">4.4</strong>).</li>
     <li>2025.12: &nbsp;🎉🎉 One paper is accepted by Scientific Reports (Impact Factor: <strong style="color: red; font-weight: bold;">3.9</strong>).</li>
     <li>2025.09: &nbsp;🎉🎉 One paper is accepted by J. King Saud Univ. Comput. Inf. Sci. (Impact Factor: <strong style="color: red; font-weight: bold;">6.1</strong>).</li>
     <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE TIP (Impact Factor: <strong style="color: red; font-weight: bold;">13.7</strong>).</li>
