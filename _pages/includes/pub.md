@@ -163,6 +163,12 @@
 
   Rundong Zhou, Yang Wang, Yulong Gao, **<u>Xiongwei Zhao</u>**, Xiang Xu
 
+- [CircularMatch: Efficient Registration of Forest Terrestrial Point Clouds using Circular Neighborhood Descriptor](https://ieeexplore.ieee.org/document/11320930)   [[PDF]](https://ieeexplore.ieee.org/document/11320930)
+
+  *IEEE Geoscience and Remote Sensing Letters **(IEEE GRSL 2025)***
+
+  Yijiao Sun, Yang Wang, **<u>Xiongwei Zhao</u>**, Qiming Wang, Wenhao Dou
+
 
 - [SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting](https://arxiv.org/pdf/2503.05174?)  [[PDF]](https://arxiv.org/pdf/2503.05174?) [![](https://img.shields.io/github/stars/Bellakira7/SplatPose?style=social&label=Code+Stars)](https://github.com/Bellakira7/SplatPose)
 
