@@ -3,7 +3,7 @@
 
 - I also maintain close collaborations with [Prof. Xieyuanli Chen](https://scholar.google.com/citations?user=DvrngV4AAAAJ) from the National University of Defense Technology, [Dr. Congcong Wen](https://scholar.google.com.sg/citations?user=OTBgvCYAAAAJ&hl=zh-CN) from Harvard University and [Dr. Sai Manoj Prakhya](https://scholar.google.com.sg/citations?user=877khTcAAAAJ&hl=zh-CN) from Applied Intuition.
 
-- My research topics are Robotics and Autonomous Driving. I’m particularly interested in the following areas: 3D Perception, World Model, LLM and Embodied AI. I have authored 20+ peer-reviewed academic papers at the top international robotics journals and conferences, such as TIP, RAL, TVT, TIM, Measurement, IROS, and ROBIO. 
+- My research topics are Robotics and Autonomous Driving. I’m particularly interested in the following areas: 3D Perception, World Model, LLM and Embodied AI. I have authored 25+ peer-reviewed academic papers at the top international robotics journals and conferences, such as TIP, RAL, TVT, TIM, Measurement, IROS, and ROBIO. 
 
 
 - If you’re interested in my research or would like to collaborate, please feel free to contact me via [xwzhao@stu.hit.edu.cn](mailto:xwzhao@stu.hit.edu.cn) or [grandzhaoxw@gmail.com](mailto:grandzhaoxw@gmail.com). I am also actively seeking postdoctoral or industry opportunities in Robotics, 3D Perception, Embodied AI, and related fields. Please don’t hesitate to reach out if there are any openings.
