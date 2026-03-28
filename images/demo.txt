@@ -1,3 +1,6 @@
 git add .
 git commit -m "update"
 git push
+
+#如果设置代理就用这个
+git config --global --unset http.proxy
