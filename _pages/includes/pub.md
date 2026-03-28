@@ -134,7 +134,7 @@
 
 - [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://arxiv.org/pdf/2504.14806)  [[PDF]](https://arxiv.org/pdf/2504.14806) [![](https://img.shields.io/github/stars/Grandzxw/ITDNet?style=social&label=Code+Stars)](https://github.com/Grandzxw/ITDNet)
 
-  ***(under major revision at TVT, 2025)***
+  *IEEE Transactions on Vehicular Technology **(TVT 2026)***
 
   **<u>Xiongwei Zhao</u>**, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun
 
@@ -155,7 +155,7 @@
 
 
 
-##  SLAM and Gaussian Splatting
+##  World Model
 
 - [Visual place recognition for coastal scenes with semantic and sequential constraints](https://www.sciencedirect.com/science/article/abs/pii/S0263224125014307)   [[PDF]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5123259)
 

@@ -47,6 +47,7 @@
 
 
 <p><strong>Journal Reviewer</strong><br>
+&bull; IEEE Transactions on Image Processing (TIP)
 &bull; IEEE Transactions on Automation Science and Engineering (TASE)<br>
 &bull; IEEE Transactions on Instrumentation and Measurement (TIM)<br>
 &bull; IEEE Robotics and Automation Letters (RAL)<br>
