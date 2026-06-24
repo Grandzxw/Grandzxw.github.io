@@ -41,6 +41,7 @@
 
 <div class="news-container">
   <ul class="news-list">
+    <li>2026.06: &nbsp;🎉🎉 One papers are accepted by IEEE IROS 2026.</li>
     <li>2026.03: &nbsp;🎉🎉 One paper is accepted by IEEE TVT (Impact Factor: <strong style="color: red; font-weight: bold;">7.1</strong>).</li>
     <li>2025.12: &nbsp;🎉🎉 One paper is accepted by IEEE GRSL (Impact Factor: <strong style="color: red; font-weight: bold;">4.4</strong>).</li>
     <li>2025.12: &nbsp;🎉🎉 One paper is accepted by Scientific Reports (Impact Factor: <strong style="color: red; font-weight: bold;">3.9</strong>).</li>
