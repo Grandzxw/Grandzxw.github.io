@@ -20,7 +20,7 @@
 # 👨‍💼 Work Experience
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2026.04 ‑ 2026.07,</strong> Data Algorithms Lead (Intern) <br>
-  <span style="font-size: 90%;">X Square Robot (自变量机器人)</span>
+  <span style="font-size: 90%;">X Square Robot</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2020.10 ‑ 2021.02,</strong> Research Intern <br>
