@@ -19,6 +19,10 @@
 
 # 👨‍💼 Work Experience
 - <p style="margin: 0; line-height: 1.2;">
+  <strong>Present,</strong> Senior Researcher in World Models <br>
+  <span style="font-size: 90%;">UBTECH Robotics (优必选)</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   <strong>2026.04 ‑ 2026.07,</strong> Data Algorithms Lead (Intern) <br>
   <span style="font-size: 90%;">X Square Robot</span>
   </p>
