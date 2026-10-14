@@ -130,32 +130,13 @@
   </div>
 </div> -->
 
-##  3D Perception
-
-- [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://arxiv.org/pdf/2504.14806)  [[PDF]](https://arxiv.org/pdf/2504.14806) [![](https://img.shields.io/github/stars/Grandzxw/ITDNet?style=social&label=Code+Stars)](https://github.com/Grandzxw/ITDNet)
-
-  *IEEE Transactions on Vehicular Technology **(TVT 2026)***
-
-  **<u>Xiongwei Zhao</u>**, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun
-
-
-- [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/pdf/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
-
-  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
-
-  Wenqing Kuang*, **<u>Xiongwei Zhao*</u>**, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen 
-
-
-
-- [TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather](https://ieeexplore.ieee.org/document/11262787)  [[PDF]](https://arxiv.org/pdf/2408.13802?) [![](https://img.shields.io/github/stars/Grandzxw/TripleMixer?style=social&label=Code+Stars)](https://github.com/Grandzxw/TripleMixer)
-
-  *IEEE Transactions on Image Processing **(TIP 2025)***
-
-  **<u>Xiongwei Zhao</u>**, Congcong Wen, Xu Zhu, Yang Wang, Haojie Bai, Wenhao Dou
-
-
-
 ##  World Model
+
+- [Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence](https://arxiv.org/abs/2610.18447)  [[PDF]](https://arxiv.org/pdf/2610.18447) [[Project]](https://thinkercosmos.ubtrobot.com/thinker-wm) [[Code]](https://github.com/UBTECH-Robot/Thinker-WM) [[Models]](https://huggingface.co/UBTECH-Robotics/Thinker-WM)
+
+  ***(arXiv 2026)***
+
+  Thinker Team, UBTECH (alphabetical order): Peng Gao, Jichao Jiao, Chen Liao, Daqin Luo, Yiming Ma, Baiyu Pan, Hailin Shi, Jiyuan Wang, Xiangming Xu, **<u>Xiongwei Zhao</u>**
 
 - [Visual place recognition for coastal scenes with semantic and sequential constraints](https://www.sciencedirect.com/science/article/abs/pii/S0263224125014307)   [[PDF]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5123259)
 
@@ -219,6 +200,31 @@
   *Sensors **(Sensors 2020)***
   
   **<u>Xiongwei Zhao</u>**, Cunxiao Miao, He Zhang
+
+
+
+##  3D Perception
+
+- [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://arxiv.org/pdf/2504.14806)  [[PDF]](https://arxiv.org/pdf/2504.14806) [![](https://img.shields.io/github/stars/Grandzxw/ITDNet?style=social&label=Code+Stars)](https://github.com/Grandzxw/ITDNet)
+
+  *IEEE Transactions on Vehicular Technology **(TVT 2026)***
+
+  **<u>Xiongwei Zhao</u>**, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun
+
+
+- [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/pdf/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
+
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+
+  Wenqing Kuang*, **<u>Xiongwei Zhao*</u>**, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen 
+
+
+
+- [TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather](https://ieeexplore.ieee.org/document/11262787)  [[PDF]](https://arxiv.org/pdf/2408.13802?) [![](https://img.shields.io/github/stars/Grandzxw/TripleMixer?style=social&label=Code+Stars)](https://github.com/Grandzxw/TripleMixer)
+
+  *IEEE Transactions on Image Processing **(TIP 2025)***
+
+  **<u>Xiongwei Zhao</u>**, Congcong Wen, Xu Zhu, Yang Wang, Haojie Bai, Wenhao Dou
 
 
 

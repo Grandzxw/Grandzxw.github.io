@@ -41,7 +41,7 @@
 
 <div class="news-container">
   <ul class="news-list">
-    <li>2026.10: &nbsp;🎉 We have open-sourced <strong>Thinker-WM</strong>, our unified multimodal world model for embodied intelligence, jointly modeling RGB, depth, and action. <a href="https://arxiv.org/abs/2610.18447">[Paper]</a> <a href="https://thinkercosmos.ubtrobot.com/thinker-wm">[Project]</a> <a href="https://github.com/UBTECH-Robot/Thinker-WM">[Code]</a> <a href="https://huggingface.co/UBTECH-Robotics/Thinker-WM">[Models]</a></li>
+    <li>2026.10: &nbsp;🎉 We have open-sourced <strong>Thinker-WM</strong>. <a href="https://arxiv.org/abs/2610.18447">[Paper]</a> <a href="https://thinkercosmos.ubtrobot.com/thinker-wm">[Project]</a> <a href="https://github.com/UBTECH-Robot/Thinker-WM">[Code]</a> <a href="https://huggingface.co/UBTECH-Robotics/Thinker-WM">[Models]</a></li>
     <li>2026.06: &nbsp;🎉🎉 One paper is accepted by IEEE IROS 2026.</li>
     <li>2026.03: &nbsp;🎉🎉 One paper is accepted by IEEE TVT (Impact Factor: <strong style="color: red; font-weight: bold;">7.1</strong>).</li>
     <li>2025.12: &nbsp;🎉🎉 One paper is accepted by IEEE GRSL (Impact Factor: <strong style="color: red; font-weight: bold;">4.4</strong>).</li>
