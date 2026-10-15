@@ -136,10 +136,7 @@
 
   ***(arXiv 2026)***
 
-  **Core Authors:** Chen Liao, Jiyuan Wang, **<u>Xiongwei Zhao</u>**<br>
-  **Authors:** Peng Gao, Yiming Ma, Daqin Luo, Xiangming Xu<br>
-  **Project Lead:** Baiyu Pan<br>
-  **Advisors:** Jichao Jiao, Hailin Shi
+  Chen Liao (Core Author), Jiyuan Wang (Core Author), **<u>Xiongwei Zhao</u>** (Core Author), Peng Gao, Yiming Ma, Daqin Luo, Xiangming Xu, Baiyu Pan, Jichao Jiao, Hailin Shi
 
 - [Visual place recognition for coastal scenes with semantic and sequential constraints](https://www.sciencedirect.com/science/article/abs/pii/S0263224125014307)   [[PDF]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5123259)
 
