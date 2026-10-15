@@ -136,7 +136,10 @@
 
   ***(arXiv 2026)***
 
-  Thinker Team, UBTECH (alphabetical order): Peng Gao, Jichao Jiao, Chen Liao, Daqin Luo, Yiming Ma, Baiyu Pan, Hailin Shi, Jiyuan Wang, Xiangming Xu, **<u>Xiongwei Zhao</u>**
+  **Core Authors:** Chen Liao, Jiyuan Wang, **<u>Xiongwei Zhao</u>**<br>
+  **Authors:** Peng Gao, Yiming Ma, Daqin Luo, Xiangming Xu<br>
+  **Project Lead:** Baiyu Pan<br>
+  **Advisors:** Jichao Jiao, Hailin Shi
 
 - [Visual place recognition for coastal scenes with semantic and sequential constraints](https://www.sciencedirect.com/science/article/abs/pii/S0263224125014307)   [[PDF]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5123259)
 
