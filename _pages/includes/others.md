@@ -23,7 +23,7 @@
   <span style="font-size: 90%;">UBTECH Robotics</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  <strong>2026.04 ‑ 2026.07,</strong> Data Algorithms Lead (Intern) <br>
+  <strong>2026.04 ‑ 2026.07,</strong> Data Algorithms Lead <br>
   <span style="font-size: 90%;">X Square Robot</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
