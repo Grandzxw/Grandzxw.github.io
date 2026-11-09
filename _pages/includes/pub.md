@@ -132,7 +132,7 @@
 
 ##  World Model
 
-- [Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence](https://arxiv.org/abs/2610.18447)  [[PDF]](https://arxiv.org/pdf/2610.18447) [[Project]](https://thinkercosmos.ubtrobot.com/thinker-wm) [[Code]](https://github.com/UBTECH-Robot/Thinker-WM) [[Models]](https://huggingface.co/UBTECH-Robotics/Thinker-WM)
+- [Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence](https://arxiv.org/abs/2610.18447)  [[PDF]](https://arxiv.org/pdf/2610.18447) [[Project]](https://thinkercosmos.ubtrobot.com/thinker-wm) [[Code]](https://github.com/UBTECH-Robot/Thinker-WM) [[Models]](https://huggingface.co/UBTECH-Robotics/Thinker-WM) [![GitHub Stars](https://img.shields.io/github/stars/UBTECH-Robot/Thinker-WM?style=social&label=Code+Stars)](https://github.com/UBTECH-Robot/Thinker-WM)
 
   ***(arXiv 2026)***
 

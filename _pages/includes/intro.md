@@ -1,5 +1,5 @@
 # 🤖 About Me
-- I am a **Senior Researcher in World Models at UBTECH Robotics**, working on world models for embodied intelligence.
+- I am a **Senior Researcher in World Models at UBTECH Robotics**, working on world models for embodied intelligence. I am also a **Postdoctoral Researcher at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences**, supervised by [Prof. Jun Cheng](https://people.ucas.ac.cn/~jun.cheng).
 
 - I received my Ph.D. from the [School of Information Science and Technology](http://eie.hitsz.edu.cn/English.htm) at [Harbin Institute of Technology](http://en.hitsz.edu.cn/), China. I was supervised by [Prof. Xu Zhu](https://faculty.hitsz.edu.cn/zhuxu?lang=en). I was previously advised by the late Prof. Yang Wang, whose passing was a great loss. I remain grateful for his guidance. 
 
