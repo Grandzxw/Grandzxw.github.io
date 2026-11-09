@@ -1,7 +1,7 @@
 <span id="educations"></span>
 
 # 📖 Educations
-- **2021.09 - Present**, Ph.D. in Robotics, Harbin Institute of Technology<br>
+- **2021.09 - 2026.05**, Ph.D. in Robotics, Harbin Institute of Technology<br>
   _Shenzhen, China, SUPERVISOR: Prof. Dr. Xu Zhu and Prof. Dr. Yang Wang_<br>
   THESIS: Towards Robust Robotic Localization and Perception in Complex Scenarios
 
@@ -24,7 +24,7 @@
   Supervisor: <a href="https://people.ucas.ac.cn/~jun.cheng">Prof. Jun Cheng</a></span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  <strong>2026.07 ‑ Present,</strong> Senior Researcher in World Models <br>
+  <strong>2026.07 ‑ Present,</strong> Senior Researcher <br>
   <span style="font-size: 90%;">UBTECH Robotics</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
