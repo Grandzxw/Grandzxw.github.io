@@ -20,8 +20,7 @@
 # 👨‍💼 Work Experience
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2026.11 ‑ Present,</strong> Postdoctoral Researcher <br>
-  <span style="font-size: 90%;">Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences<br>
-  Supervisor: <a href="https://people.ucas.ac.cn/~jun.cheng">Prof. Jun Cheng</a></span>
+  <span style="font-size: 90%;">Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2026.07 ‑ Present,</strong> Senior Researcher <br>
