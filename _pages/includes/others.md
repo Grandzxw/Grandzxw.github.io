@@ -51,6 +51,9 @@
 
 
 <p><strong>Invited Talks</strong><br>
+&bull; Thinker-WM：统一的具身世界模型
+  <span style="margin-left:8px;">2026.11.07</span><br>
+&nbsp;&nbsp;Host: Prof. Changyang She. Harbin Institute of Technology.<br><br>
 &bull; 3D Robust Perception: Improving Autonomous Driving Perception in Adverse Weather
   <span style="margin-left:8px;">2025.10.16</span><br>
 &nbsp;&nbsp;Host: Xiaoliu Cheng. CVLife, Shenzhen, China.
