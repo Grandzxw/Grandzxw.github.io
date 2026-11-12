@@ -62,6 +62,7 @@
 
 
 <p><strong>Journal Reviewer</strong><br>
+&bull; IEEE Transactions on Geoscience and Remote Sensing (TGRS)<br>
 &bull; IEEE Transactions on Image Processing (TIP)<br>
 &bull; IEEE Transactions on Automation Science and Engineering (TASE)<br>
 &bull; IEEE Transactions on Instrumentation and Measurement (TIM)<br>
