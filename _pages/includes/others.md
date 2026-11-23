@@ -1,101 +1,51 @@
 <span id="educations"></span>
 
-# 📖 Educations
-- **2021.09 - 2026.05**, Ph.D. in Robotics, Harbin Institute of Technology<br>
-  _Shenzhen, China, SUPERVISOR: Prof. Dr. Xu Zhu and Prof. Dr. Yang Wang_<br>
-  THESIS: Towards Robust Robotic Localization and Perception in Complex Scenarios
+# Education
 
-- **2018.09 - 2021.06**, M.S. in Mechanical Engineering, University Of Science and Technology Beijing<br>
-  _Beijing, China, SUPERVISOR: Prof. Dr. Cunxiao Miao_<br>
-  THESIS: Multi-Sensor Fusion SLAM Using RGB-D Cameras
+- **Ph.D. in Robotics**, Harbin Institute of Technology (Shenzhen), 2021.09–2026.05  
+  Shenzhen, China · Supervisor: Prof. Xu Zhu and Prof. Yang Wang
 
-- **2014.09 - 2018.07**, B.S. in Vehicle Engineering, Xi’an University of Science and Technology<br>
-  _Xi’an, China, SUPERVISOR: Prof. Dr. Shuangfeng Zhao_<br>
-  THESIS: Vision-Based Driver Fatigue Detection
+- **M.S. in Mechanical Engineering**, University of Science and Technology Beijing, 2018.09–2021.06  
+  Beijing, China · Supervisor: Prof. Cunxiao Miao
 
-
+- **B.S. in Vehicle Engineering**, Xi’an University of Science and Technology, 2014.09–2018.07  
+  Xi’an, China · Supervisor: Prof. Shuangfeng Zhao
 
 <span id="working-experience"></span>
 
-# 👨‍💼 Work Experience
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2026.11 ‑ Present,</strong> Postdoctoral Researcher <br>
-  <span style="font-size: 90%;">Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2026.07 ‑ Present,</strong> Senior Researcher <br>
-  <span style="font-size: 90%;">UBTECH Robotics</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2026.04 ‑ 2026.07,</strong> Data Algorithms Lead <br>
-  <span style="font-size: 90%;">X Square Robot</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2020.10 ‑ 2021.02,</strong> Research Intern <br>
-  <span style="font-size: 90%;">Narwal Technologies Co., Ltd.</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2020.05 ‑ 2020.08,</strong> Research Intern <br>
-  <span style="font-size: 90%;">Huawei Technologies Co., Ltd.</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2020.01 ‑ 2020.04,</strong> Research Assistant <br>
-  <span style="font-size: 90%;">Hong Kong Polytechnic University </span>
-  </p>
+# Experience
 
+- **2026.11–Present** · Postdoctoral Researcher  
+  Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
 
+- **2026.07–Present** · Senior Researcher in World Models  
+  UBTECH Robotics
+
+- **2026.04–2026.07** · Data Algorithms Lead  
+  X Square Robot
+
+- **2020.10–2021.02** · Research Intern  
+  Narwal Technologies
+
+- **2020.05–2020.08** · Research Intern  
+  Huawei Technologies
+
+- **2020.01–2020.04** · Research Assistant  
+  The Hong Kong Polytechnic University
 
 <span id="academic-services"></span>
 
-# 👨‍🔧 Academic Services
+# Academic Services
 
+**Invited Talks**
 
-<p><strong>Invited Talks</strong><br>
-&bull; Thinker-WM: A Unified World Model for Embodied Intelligence
-  <span style="margin-left:8px;">2026.11.07</span><br>
-&nbsp;&nbsp;Host: Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=EJ_I0X0AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Changyang She</a>. Harbin Institute of Technology, Shenzhen, China.<br><br>
-&bull; 3D Robust Perception: Improving Autonomous Driving Perception in Adverse Weather
-  <span style="margin-left:8px;">2025.10.16</span><br>
-&nbsp;&nbsp;Host: Xiaoliu Cheng. CVLife, Shenzhen, China.
-  <a href="https://www.bilibili.com/video/BV1dAWkz9ERS/?spm_id_from=333.337.search-card.all.click" target="_blank" rel="noopener">Link</a>
-</p>
+- *Thinker-WM: A Unified World Model for Embodied Intelligence*, Harbin Institute of Technology, Shenzhen, 2026.11.07.
+- *3D Robust Perception: Improving Autonomous Driving Perception in Adverse Weather*, CVLife, 2025.10.16. [Video](https://www.bilibili.com/video/BV1dAWkz9ERS/)
 
+**Journal Reviewer**
 
-<p><strong>Journal Reviewer</strong><br>
-&bull; IEEE Transactions on Geoscience and Remote Sensing (TGRS)<br>
-&bull; IEEE Transactions on Image Processing (TIP)<br>
-&bull; IEEE Transactions on Automation Science and Engineering (TASE)<br>
-&bull; IEEE Transactions on Instrumentation and Measurement (TIM)<br>
-&bull; IEEE Robotics and Automation Letters (RAL)<br>
-&bull; IEEE Transactions on Vehicular Technology (TVT)
-</p>
+IEEE TGRS · IEEE TIP · IEEE TASE · IEEE TIM · IEEE RA-L · IEEE TVT
 
-<!-- <p>
-  <strong> Journal Reviewer</strong> 
-- IEEE Transactions on Automation Science and Engineering (TASE)
-- IEEE Transactions on Instrumentation and Measurement (TIM) 
-- IEEE Robotics and Automation Letters (RAL)
-- IEEE Transactions on Vehicular Technology (TVT)
-</p> -->
+**Conference Reviewer**
 
-<p><strong>Conference Reviewer</strong><br>
-&bull; IEEE International Conference on Robotics and Automation (ICRA)<br>
-&bull; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)<br>
-&bull; IEEE International Conference on Robotics and Biomimetics (ROBIO)<br>
-&bull; IEEE International Conference on Communications in China Workshops (ICCC)
-</p>
-
-
-
-
-
-
-<!-- <div style="float: left;">
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=Rb-iP8f5--b43X14KVkJwMa0-GzAr8QqOIuZinWaTII&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
-</div> -->
-
-
-<div style="float: left; width: 300px; min-height: 150px;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2sXbHVIu8eH-RfNnxDxl40Lr68lj4-YrLMqKpIZqVtI&cl=ffffff&w=a"></script>
-</div>
-
+ICRA · IROS · ROBIO · ICCC
