@@ -1,5 +1,42 @@
 <span id="publications"></span>
 
+# Selected Publications
+
+<div class="publication-card">
+  <div class="publication-card__figure">
+    <img src="https://raw.githubusercontent.com/Grandzxw/TripleMixer/main/figs/triplemixer.png" alt="TripleMixer network architecture from the paper">
+    <p class="figure-caption">TripleMixer · paper framework</p>
+  </div>
+  <div class="publication-card__content">
+    <h3><a href="https://arxiv.org/abs/2408.13802">TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather</a></h3>
+    <p class="publication-meta">IEEE Transactions on Image Processing (TIP), 2025</p>
+    <p><strong>Xiongwei Zhao</strong>, Congcong Wen, Xu Zhu, Yang Wang, Haojie Bai, Wenhao Dou</p>
+    <p><a href="https://arxiv.org/abs/2408.13802">Paper</a> · <a href="https://github.com/Grandzxw/TripleMixer">Code</a></p>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-card__figure">
+    <img src="https://raw.githubusercontent.com/Grandzxw/ITDNet/main/fig/main.png" alt="ITDNet system architecture from the paper">
+    <p class="figure-caption">ITDNet · system architecture</p>
+  </div>
+  <div class="publication-card__content">
+    <h3><a href="https://arxiv.org/abs/2504.14806">An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather</a></h3>
+    <p class="publication-meta">IEEE Transactions on Vehicular Technology (TVT), 2026</p>
+    <p><strong>Xiongwei Zhao</strong>, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun</p>
+    <p><a href="https://arxiv.org/abs/2504.14806">Paper</a> · <a href="https://github.com/Grandzxw/ITDNet">Code</a></p>
+  </div>
+</div>
+
+## Other Selected Papers
+
+- **SplatPose** · *IEEE/RSJ IROS 2025* · Co-first author. [Paper](https://arxiv.org/abs/2503.05174)
+- **Multimodal Features and Accurate Place Recognition with Robust Optimization for LiDAR–Visual–Inertial SLAM** · *IEEE TIM 2024* · First author. [Paper](https://ieeexplore.ieee.org/abstract/document/10445759) · [Code](https://github.com/Grandzxw/MMF-LVINS)
+- **ResLPR** · *IEEE/RSJ IROS 2025* · Co-first author. [Paper](https://arxiv.org/abs/2503.12350) · [Code](https://github.com/nubot-nudt/ResLPR)
+
+<details class="full-publications">
+<summary>Complete publication list</summary>
+
 # 📝 Publications 
 (* denotes equal contribution; # indicates corresponding author)
 
@@ -292,3 +329,5 @@
   *Electronics Letters **(EL 2024)***
 
   Xingxiang Xie, **<u>Xiongwei Zhao</u>**, Zhumei Song, Kening Li
+
+</details>
