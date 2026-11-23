@@ -1,166 +1,45 @@
 <!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Xiongwei Zhao | Research Homepage Preview</title>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Xiongwei Zhao | Research Homepage</title>
 <meta name="description" content="Xiongwei Zhao — Embodied AI, World Models, Robotics and 3D Geometry">
 <style>
 :root{--ink:#202124;--muted:#626970;--line:#e7e9ec;--link:#175da8;--paper:#fff;--soft:#f7f8fa}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.68 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
-a{color:var(--link);text-decoration:none}
-a:hover{text-decoration:underline}
-.site{max-width:1120px;margin:0 auto;padding:30px 30px 70px}
-.topbar{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-bottom:20px;border-bottom:1px solid var(--line)}
-.brand{font-weight:650;font-size:18px;color:var(--ink)}
-.nav{display:flex;gap:22px;flex-wrap:wrap;font-size:14px}
-.nav a{color:#555}
-.hero{display:grid;grid-template-columns:180px minmax(0,1fr);gap:34px;padding:42px 0 30px;align-items:start}
-.avatar{width:148px;height:148px;object-fit:cover;border-radius:50%;border:1px solid var(--line)}
-h1{font-size:34px;line-height:1.2;margin:0 0 8px;letter-spacing:-.7px}
-.role{font-size:17px;color:#3e454c;margin:0 0 14px}
-.tagline{font-size:16px;color:var(--muted);max-width:760px;margin:0 0 15px}
-.links{display:flex;gap:15px;flex-wrap:wrap;font-size:14px}
-section{padding:26px 0;border-top:1px solid var(--line)}
-h2{font-size:21px;line-height:1.3;margin:0 0 18px;font-weight:650}
-h3{font-size:17px;line-height:1.42;margin:0 0 8px;font-weight:650}
-p{margin:0 0 10px}
-.muted{color:var(--muted)}
-.interests{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
-.interest{padding-right:16px}
-.interest strong{display:block;margin-bottom:4px}
-.featured{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(260px,.95fr);gap:26px;align-items:center}
-.figure{border:1px solid var(--line);background:#fff;padding:10px}
-.figure img{display:block;width:100%;max-height:330px;object-fit:contain}
-.caption{font-size:12px;color:#777;text-align:center;margin:8px 0 0}
-.meta{font-size:14px;color:var(--muted);margin:0 0 10px}
-.pub-list{display:flex;flex-direction:column}
-.pub{display:grid;grid-template-columns:270px minmax(0,1fr);gap:24px;padding:22px 0;border-bottom:1px solid var(--line);align-items:start}
-.pub-figure{border:1px solid var(--line);background:#fff;padding:8px}
-.pub-figure img{width:100%;height:170px;display:block;object-fit:contain}
-.pub-text p{font-size:14px}
-.pub-links{font-size:14px;margin-top:8px}
-.pending{min-height:170px;background:var(--soft);border:1px dashed #cfd4da;display:flex;align-items:center;justify-content:center;text-align:center;padding:18px;color:#69717a;font-size:13px}
-.news{list-style:none;padding:0;margin:0}
-.news li{display:grid;grid-template-columns:90px 1fr;gap:10px;margin:0 0 10px}
-.date{color:#7a8087;font-variant-numeric:tabular-nums}
-.timeline{display:grid;grid-template-columns:1fr 1fr;gap:28px}
-.timeline p{font-size:14px;margin-bottom:12px}
-.footer{border-top:1px solid var(--line);padding-top:18px;color:#888;font-size:12px;margin-top:30px}
-@media(max-width:760px){
- .site{padding:20px 18px 50px}.topbar{align-items:flex-start;flex-direction:column}.nav{gap:14px}
- .hero{grid-template-columns:1fr;gap:18px;padding-top:28px}.avatar{width:112px;height:112px}
- h1{font-size:29px}.interests{grid-template-columns:1fr;gap:14px}
- .featured{grid-template-columns:1fr}.pub{grid-template-columns:1fr;gap:14px}.pub-figure img{height:auto;max-height:240px}
- .timeline{grid-template-columns:1fr}
-}
-</style>
-</head>
-<body>
-<div class="site">
-  <header class="topbar">
-    <a class="brand" href="#">Xiongwei Zhao</a>
-    <nav class="nav">
-      <a href="#about">About</a><a href="#research">Research</a><a href="#featured">Featured</a><a href="#publications">Publications</a><a href="#news">News</a><a href="#experience">Experience</a>
-    </nav>
-  </header>
-
-  <div class="hero" id="about">
-    <img class="avatar" src="https://raw.githubusercontent.com/Grandzxw/Grandzxw.github.io/main/images/my-photo-new.jpg" alt="Xiongwei Zhao">
-    <div>
-      <h1>Xiongwei Zhao</h1>
-      <p class="role">Senior Researcher in World Models · UBTECH Robotics</p>
-      <p class="tagline">Researcher working on embodied world models, robot learning, and geometric perception. I received my Ph.D. in Robotics from Harbin Institute of Technology, Shenzhen.</p>
-      <div class="links">
-        <a href="https://scholar.google.com/citations?user=miv8T6MAAAAJ&hl=zh-TW">Google Scholar</a>
-        <a href="https://github.com/Grandzxw">GitHub</a>
-        <a href="mailto:grandzhaoxw@gmail.com">Email</a>
-        <a href="https://grandzxw.github.io/cv/Resume_Xiongwei_Zhao.pdf">CV</a>
-      </div>
-    </div>
-  </div>
-
-  <section id="research">
-    <h2>Research Interests</h2>
-    <div class="interests">
-      <div class="interest"><strong>Embodied World Models</strong><span class="muted">Multimodal world modeling, world-action models, and action-conditioned future prediction.</span></div>
-      <div class="interest"><strong>Geometry-aware Perception</strong><span class="muted">3D scene understanding, LiDAR point-cloud processing, and geometric reasoning.</span></div>
-      <div class="interest"><strong>Robot Learning</strong><span class="muted">Visuomotor learning, manipulation, and long-horizon robotic tasks.</span></div>
-    </div>
-  </section>
-
-  <section id="featured">
-    <h2>Featured Research</h2>
-    <div class="featured">
-      <div class="figure">
-        <img src="https://arxiv.org/html/2610.18447v3/x1.png" alt="Thinker-WM Figure 1: overall architecture">
-        <p class="caption">Figure 1 · Thinker-WM overview (original paper figure)</p>
-      </div>
-      <div>
-        <h3><a href="https://arxiv.org/abs/2610.18447">Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence</a></h3>
-        <p class="meta">Technical Report, 2026 · Core Author · UBTECH Robotics</p>
-        <p>Thinker-WM jointly models RGB video, metric depth, and robot actions through a shared multimodal dynamics representation.</p>
-        <p class="pub-links"><a href="https://arxiv.org/abs/2610.18447">Paper</a> · <a href="https://thinkercosmos.ubtrobot.com/thinker-wm/">Project</a> · <a href="https://github.com/UBTECH-Robot/Thinker-WM">Code</a></p>
-      </div>
-    </div>
-  </section>
-
-  <section id="publications">
-    <h2>Selected Publications</h2>
-    <div class="pub-list">
-      <article class="pub">
-        <div class="pub-figure"><img src="https://raw.githubusercontent.com/Grandzxw/TripleMixer/main/figs/triplemixer.png" alt="TripleMixer Figure 5 network framework"><p class="caption">Figure 5 · TripleMixer network overview</p></div>
-        <div class="pub-text"><h3><a href="https://arxiv.org/abs/2408.13802">TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather</a></h3><p class="meta">IEEE Transactions on Image Processing (TIP), 2025 · First Author</p><p><strong>Xiongwei Zhao</strong>, Congcong Wen, Xu Zhu, Yang Wang, Haojie Bai, Wenhao Dou</p><p class="pub-links"><a href="https://arxiv.org/abs/2408.13802">Paper</a> · <a href="https://github.com/Grandzxw/TripleMixer">Code</a></p></div>
-      </article>
-      <article class="pub">
-        <div class="pub-figure"><img src="https://raw.githubusercontent.com/Grandzxw/ITDNet/main/fig/main.png" alt="ITDNet Figure 3 overall architecture"><p class="caption">Figure 3 · ITDNet overall architecture</p></div>
-        <div class="pub-text"><h3><a href="https://arxiv.org/abs/2504.14806">An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather</a></h3><p class="meta">IEEE Transactions on Vehicular Technology (TVT), 2026 · First Author</p><p><strong>Xiongwei Zhao</strong>, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun</p><p class="pub-links"><a href="https://arxiv.org/abs/2504.14806">Paper</a> · <a href="https://github.com/Grandzxw/ITDNet">Code</a></p></div>
-      </article>
-      <article class="pub">
-        <div class="pub-figure pending">Original Figure 1 / system framework<br>Awaiting the paper PDF for exact extraction</div>
-        <div class="pub-text"><h3><a href="https://ieeexplore.ieee.org/document/10445759">Multimodal Features and Accurate Place Recognition With Robust Optimization for LiDAR–Visual–Inertial SLAM</a></h3><p class="meta">IEEE Transactions on Instrumentation and Measurement (TIM), 2024 · First Author</p><p><strong>Xiongwei Zhao</strong>, Congcong Wen, Sai Manoj Prakhya, Hongpei Yin, Rundong Zhou, Yijiao Sun, Jie Xu, Haojie Bai, Yang Wang</p><p class="pub-links"><a href="https://ieeexplore.ieee.org/document/10445759">Paper</a> · <a href="https://github.com/Grandzxw/MMF-LVINS">Code</a></p></div>
-      </article>
-      <article class="pub">
-        <div class="pub-figure"><img src="https://arxiv.org/html/2503.05174v1/x2.png" alt="SplatPose Figure 2 pipeline"><p class="caption">Figure 2 · SplatPose pipeline</p></div>
-        <div class="pub-text"><h3><a href="https://arxiv.org/abs/2503.05174">SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting</a></h3><p class="meta">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 · Co-first Author</p><p>Linqi Yang*, <strong>Xiongwei Zhao*</strong>, Qihao Sun, Ke Wang, Ao Chen, Peng Kang</p><p class="pub-links"><a href="https://arxiv.org/abs/2503.05174">Paper</a> · <a href="https://github.com/Bellakira7/SplatPose">Code</a></p></div>
-      </article>
-      <article class="pub">
-        <div class="pub-figure"><img src="https://arxiv.org/html/2503.12350v1/x2.png" alt="ResLPR Figure 2 ResLPRNet pipeline"><p class="caption">Figure 2 · ResLPRNet pipeline</p></div>
-        <div class="pub-text"><h3><a href="https://arxiv.org/abs/2503.12350">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</a></h3><p class="meta">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 · Co-first Author</p><p>Wenqing Kuang*, <strong>Xiongwei Zhao*</strong>, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen</p><p class="pub-links"><a href="https://arxiv.org/abs/2503.12350">Paper</a> · <a href="https://github.com/nubot-nudt/ResLPR">Code</a></p></div>
-      </article>
-    </div>
-    <p class="muted" style="font-size:13px;margin-top:16px">The complete publication list remains available below the selected papers in the full Jekyll site.</p>
-  </section>
-
-  <section id="news">
-    <h2>News</h2>
-    <ul class="news">
-      <li><span class="date">2026.11</span><span>Invited talk on Thinker-WM at Harbin Institute of Technology, Shenzhen.</span></li>
-      <li><span class="date">2026.10</span><span>Thinker-WM technical report and open-source release. <a href="https://arxiv.org/abs/2610.18447">Paper</a> · <a href="https://thinkercosmos.ubtrobot.com/thinker-wm/">Project</a></span></li>
-      <li><span class="date">2026.07</span><span>Joined UBTECH Robotics as a Senior Researcher in World Models.</span></li>
-      <li><span class="date">2026.06</span><span>One paper accepted by IEEE IROS 2026.</span></li>
-    </ul>
-  </section>
-
-  <section id="experience">
-    <h2>Experience & Education</h2>
-    <div class="timeline">
-      <div>
-        <p><strong>2026.07–Present</strong><br>Senior Researcher in World Models · UBTECH Robotics</p>
-        <p><strong>2026.11–Present</strong><br>Postdoctoral Researcher · Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences</p>
-        <p><strong>2026.04–2026.07</strong><br>Data Algorithms Lead · X Square Robot</p>
-      </div>
-      <div>
-        <p><strong>2021.09–2026.05</strong><br>Ph.D. in Robotics · Harbin Institute of Technology, Shenzhen</p>
-        <p><strong>2018.09–2021.06</strong><br>M.S. in Mechanical Engineering · University of Science and Technology Beijing</p>
-        <p><strong>2014.09–2018.07</strong><br>B.S. in Vehicle Engineering · Xi’an University of Science and Technology</p>
-      </div>
-    </div>
-  </section>
-
-  <footer class="footer">Homepage redesign preview · White background · Minimal academic layout · Not yet published to the main website.</footer>
-</div>
-</body>
-</html>
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#fff;color:var(--ink);font:16px/1.68 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}.site{max-width:1100px;margin:0 auto;padding:26px 28px 70px}
+.topbar{display:flex;align-items:center;justify-content:space-between;gap:18px;padding-bottom:18px;border-bottom:1px solid var(--line)}
+.brand{font-weight:650;font-size:18px;color:var(--ink)}.nav{display:flex;gap:19px;flex-wrap:wrap;font-size:14px}.nav a{color:#555}
+.hero{display:grid;grid-template-columns:155px minmax(0,1fr);gap:30px;padding:38px 0 28px;align-items:start}.avatar{width:136px;height:136px;object-fit:cover;border-radius:50%;border:1px solid var(--line)}
+h1{font-size:32px;line-height:1.2;margin:0 0 8px;letter-spacing:-.6px}h2{font-size:21px;line-height:1.3;margin:0 0 17px;font-weight:650}h3{font-size:17px;line-height:1.42;margin:0 0 8px;font-weight:650}h4{font-size:15px;margin:0 0 6px}
+.role{font-size:17px;color:#3e454c;margin:0 0 12px}.tagline{font-size:15px;color:var(--muted);max-width:780px;margin:0 0 13px}.links{display:flex;gap:15px;flex-wrap:wrap;font-size:14px}
+section{padding:25px 0;border-top:1px solid var(--line)}p{margin:0 0 9px}.muted,.meta{color:var(--muted)}.meta{font-size:13px;margin-bottom:8px}
+.interests{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.interest strong{display:block;margin-bottom:3px}
+.featured{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(260px,.92fr);gap:24px;align-items:center}
+.figure,.pub-figure{border:1px solid var(--line);background:#fff;padding:9px}.figure img{display:block;width:100%;max-height:320px;object-fit:contain}.caption{font-size:12px;color:#777;text-align:center;margin:7px 0 0}
+.pub-list{display:flex;flex-direction:column}.pub{display:grid;grid-template-columns:260px minmax(0,1fr);gap:22px;padding:20px 0;border-bottom:1px solid var(--line);align-items:start}
+.pub-figure img{width:100%;height:165px;display:block;object-fit:contain}.pub-text p{font-size:14px}.pub-links{font-size:13px;margin-top:8px}
+.pending{min-height:165px;background:var(--soft);border:1px dashed #cfd4da;display:flex;align-items:center;justify-content:center;text-align:center;padding:16px;color:#69717a;font-size:13px}
+.full-publications{margin-top:22px;border-top:1px solid var(--line);padding-top:16px}.full-publications summary{cursor:pointer;color:var(--link);font-weight:600}
+.full-category{margin-top:18px}.full-category h3{border-bottom:1px solid var(--line);padding-bottom:7px}.full-paper{padding:11px 0;border-bottom:1px solid #f0f1f2}.full-paper-title{font-size:14px;font-weight:600}.full-paper p{font-size:13px;color:#5f666d;margin:4px 0 0}
+.news{list-style:none;padding:0;margin:0}.news li{display:grid;grid-template-columns:88px 1fr;gap:10px;margin:0 0 9px}.date{color:#7a8087;font-size:14px;font-variant-numeric:tabular-nums}
+.timeline{display:grid;grid-template-columns:1fr 1fr;gap:25px}.simple-list{padding-left:20px;margin:0}.simple-list li{margin:0 0 9px}.subline{font-size:13px;color:var(--muted);margin-left:0}.footer{border-top:1px solid var(--line);padding-top:17px;color:#888;font-size:12px;margin-top:28px}
+@media(max-width:760px){.site{padding:18px 17px 45px}.topbar{align-items:flex-start;flex-direction:column}.nav{gap:13px}.hero{grid-template-columns:1fr;gap:15px;padding-top:26px}.avatar{width:105px;height:105px}h1{font-size:28px}.interests{grid-template-columns:1fr;gap:13px}.featured{grid-template-columns:1fr}.pub{grid-template-columns:1fr;gap:12px}.pub-figure img{height:auto;max-height:230px}.timeline{grid-template-columns:1fr}}
+</style></head><body><div class="site">
+<header class="topbar"><a class="brand" href="#">Xiongwei Zhao</a><nav class="nav"><a href="#about">About</a><a href="#research">Research</a><a href="#featured">Featured</a><a href="#publications">Publications</a><a href="#news">News</a><a href="#experience">Experience</a><a href="#education">Education</a></nav></header>
+<div class="hero" id="about"><img class="avatar" src="https://raw.githubusercontent.com/Grandzxw/Grandzxw.github.io/main/images/my-photo-new.jpg" alt="Xiongwei Zhao"><div><h1>Xiongwei Zhao</h1><p class="role">Senior Researcher in World Models · UBTECH Robotics</p><p class="tagline">Researcher working on embodied world models, robot learning, and geometric perception. I received my Ph.D. in Robotics from Harbin Institute of Technology, Shenzhen.</p><div class="links"><a href="https://scholar.google.com/citations?user=miv8T6MAAAAJ&hl=zh-TW">Google Scholar</a><a href="https://github.com/Grandzxw">GitHub</a><a href="mailto:grandzhaoxw@gmail.com">Email</a><a href="https://grandzxw.github.io/cv/Resume_Xiongwei_Zhao.pdf">CV</a></div></div></div>
+<section id="research"><h2>Research Interests</h2><div class="interests"><div class="interest"><strong>Embodied World Models</strong><span class="muted">Multimodal world modeling, world-action models, and action-conditioned future prediction.</span></div><div class="interest"><strong>Geometry-aware Perception</strong><span class="muted">3D scene understanding, LiDAR point-cloud processing, and geometric reasoning.</span></div><div class="interest"><strong>Robot Learning</strong><span class="muted">Visuomotor learning, manipulation, and long-horizon robotic tasks.</span></div></div></section>
+<section id="featured"><h2>Featured Research</h2><div class="featured"><div class="figure"><img src="https://arxiv.org/html/2610.18447/x1.png" alt="Thinker-WM Figure 1 overall architecture"><p class="caption">Figure 1 · Thinker-WM overview (original paper figure)</p></div><div><h3><a href="https://arxiv.org/abs/2610.18447">Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence</a></h3><p class="meta">Technical Report, 2026 · Core Author · UBTECH Robotics</p><p>Thinker-WM jointly models RGB video, metric depth, and robot actions through a shared multimodal dynamics representation.</p><p class="pub-links"><a href="https://arxiv.org/abs/2610.18447">Paper</a> · <a href="https://thinkercosmos.ubtrobot.com/thinker-wm/">Project</a> · <a href="https://github.com/UBTECH-Robot/Thinker-WM">Code</a></p></div></div></section>
+<section id="publications"><h2>Selected Publications</h2><div class="pub-list">
+<article class="pub"><div class="pub-figure"><img src="https://raw.githubusercontent.com/Grandzxw/TripleMixer/main/figs/triplemixer.png" alt="TripleMixer original network framework"><p class="caption">TripleMixer · original network framework</p></div><div class="pub-text"><h3><a href="https://arxiv.org/abs/2408.13802">TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather</a></h3><p class="meta">IEEE Transactions on Image Processing (TIP), 2025 · First Author</p><p><strong>Xiongwei Zhao</strong>, Congcong Wen, Xu Zhu, Yang Wang, Haojie Bai, Wenhao Dou</p><p class="pub-links"><a href="https://arxiv.org/abs/2408.13802">Paper</a> · <a href="https://github.com/Grandzxw/TripleMixer">Code</a></p></div></article>
+<article class="pub"><div class="pub-figure"><img src="https://raw.githubusercontent.com/Grandzxw/ITDNet/main/fig/main.png" alt="ITDNet original system architecture"><p class="caption">ITDNet · system architecture</p></div><div class="pub-text"><h3><a href="https://arxiv.org/abs/2504.14806">An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather</a></h3><p class="meta">IEEE Transactions on Vehicular Technology (TVT), 2026 · First Author</p><p><strong>Xiongwei Zhao</strong>, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun</p><p class="pub-links"><a href="https://arxiv.org/abs/2504.14806">Paper</a> · <a href="https://github.com/Grandzxw/ITDNet">Code</a></p></div></article>
+<article class="pub"><div class="pub-figure pending">Original IEEE TIM system framework<br>Awaiting the source PDF for exact figure extraction</div><div class="pub-text"><h3><a href="https://ieeexplore.ieee.org/document/10445759">Multimodal Features and Accurate Place Recognition With Robust Optimization for LiDAR–Visual–Inertial SLAM</a></h3><p class="meta">IEEE Transactions on Instrumentation and Measurement (TIM), 2024 · First Author</p><p><strong>Xiongwei Zhao</strong>, Congcong Wen, Sai Manoj Prakhya, Hongpei Yin, Rundong Zhou, Yijiao Sun, Jie Xu, Haojie Bai, Yang Wang</p><p class="pub-links"><a href="https://ieeexplore.ieee.org/document/10445759">Paper</a> · <a href="https://github.com/Grandzxw/MMF-LVINS">Code</a></p></div></article>
+<article class="pub"><div class="pub-figure"><img src="https://arxiv.org/html/2503.05174/x2.png" alt="SplatPose Figure 2 original method pipeline"><p class="caption">Figure 2 · SplatPose pipeline</p></div><div class="pub-text"><h3><a href="https://arxiv.org/abs/2503.05174">SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting</a></h3><p class="meta">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 · Co-first Author</p><p>Linqi Yang*, <strong>Xiongwei Zhao*</strong>, Qihao Sun, Ke Wang, Ao Chen, Peng Kang</p><p class="pub-links"><a href="https://arxiv.org/abs/2503.05174">Paper</a> · <a href="https://github.com/Bellakira7/SplatPose">Code</a></p></div></article>
+<article class="pub"><div class="pub-figure"><img src="https://arxiv.org/html/2503.12350/x2.png" alt="ResLPR Figure 2 original network pipeline"><p class="caption">Figure 2 · ResLPRNet pipeline</p></div><div class="pub-text"><h3><a href="https://arxiv.org/abs/2503.12350">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</a></h3><p class="meta">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 · Co-first Author</p><p>Wenqing Kuang*, <strong>Xiongwei Zhao*</strong>, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen</p><p class="pub-links"><a href="https://arxiv.org/abs/2503.12350">Paper</a> · <a href="https://github.com/nubot-nudt/ResLPR">Code</a></p></div></article>
+</div><details class="full-publications"><summary>Show complete publication list</summary><div class="full-category"><h3>World Model</h3><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/abs/2610.18447">Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence</a> [[PDF]](https://arxiv.org/pdf/2610.18447) [[Project]](https://thinkercosmos.ubtrobot.com/thinker-wm) [[Code]](https://github.com/UBTECH-Robot/Thinker-WM) [[Models]](https://huggingface.co/UBTECH-Robotics/Thinker-WM)</div><p><em><strong>(arXiv 2026)</strong></em></p><p>Chen Liao (Core Author), Jiyuan Wang (Core Author), <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong> (Core Author), Peng Gao, Yiming Ma, Daqin Luo, Xiangming Xu, Baiyu Pan, Jichao Jiao, Hailin Shi</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0263224125014307">Visual place recognition for coastal scenes with semantic and sequential constraints</a> [[PDF]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5123259)</div><p><em>Measurement <strong>(Measurement 2025)</strong></em></p><p>Rundong Zhou, Yang Wang, Yulong Gao, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Xiang Xu</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ieeexplore.ieee.org/document/11320930">CircularMatch: Efficient Registration of Forest Terrestrial Point Clouds using Circular Neighborhood Descriptor</a> [[PDF]](https://ieeexplore.ieee.org/document/11320930)</div><p><em>IEEE Geoscience and Remote Sensing Letters <strong>(IEEE GRSL 2025)</strong></em></p><p>Yijiao Sun, Yang Wang, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Qiming Wang, Wenhao Dou</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/pdf/2503.05174?">SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting</a> [[PDF]](https://arxiv.org/pdf/2503.05174?)</div><p><em>In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems <strong>(IROS 2025)</strong></em></p><p>Linqi Yang<em>, </em><em>&lt;u&gt;Xiongwei Zhao</em>&lt;/u&gt;**, Qihao Sun, Ke Wang, Ao Chen, Peng Kang</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ieeexplore.ieee.org/document/10937714">UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation</a> [[PDF]](https://arxiv.org/pdf/2503.21338)</div><p><em>IEEE Robotics and Automation Letters <strong>(RAL 2025)</strong></em></p><p>Yehui Shen, Lei Zhang, Qingqiu Li, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Yue Wang, Huimin Lu, Xieyuanli Chen</p></article><article class="full-paper"><div class="full-paper-title">A Graph-Based Method for Efficient Frontier Detection and Traversability Assessment in Autonomous Exploration</div><p><em>IEEE Chinese Automation Congress <strong>(CAC 2025)</strong></em></p><p>Qiming Wang, Yulong Gao, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Yijiao Sun, Xiangyan Kong</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/pdf/2503.12782">DART: Dual-level Autonomous Robotic Topology for Efficient Exploration in Unknown Environments</a> [[PDF]](https://arxiv.org/pdf/2503.12782)</div><p><em><strong>(arXiv 2025)</strong></em></p><p>Qiming Wang, Yulong Gao, Yang Wang, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Yijiao Sun, Xiangyan Kong</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ieeexplore.ieee.org/abstract/document/10445759">Multimodal features and accurate place recognition with robust optimization for lidar–visual–inertial slam</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/10445759)</div><p><em>IEEE Transactions on Instrumentation and Measurement <strong>(TIM 2024)</strong></em></p><p><strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Congcong Wen, Sai Manoj Prakhya, Hongpei Yin, Rundong Zhou, Yijiao Sun, Jie Xu, Haojie Bai, Yang Wang</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ieeexplore.ieee.org/abstract/document/10268066">R2DIO: A Robust and Real-Time Depth-Inertial Odometry Leveraging Multimodal Constraints for Challenging Environments</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/10268066)</div><p><em>IEEE Transactions on Instrumentation and Measurement <strong>(TIM 2023)</strong></em></p><p>Jie Xu, Ruifeng Li, Song Huang, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Shuxin Qiu, Zhijun Chen, Lijun Zhao</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://www.mdpi.com/1424-8220/20/17/4666">Multi-Feature Nonlinear Optimization Motion Estimation Based on RGB-D and Inertial Fusion</a> [[PDF]](https://www.mdpi.com/1424-8220/20/17/4666)</div><p><em>Sensors <strong>(Sensors 2020)</strong></em></p><p><strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Cunxiao Miao, He Zhang</p></article></div><div class="full-category"><h3>3D Perception</h3><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/pdf/2504.14806">An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather</a> [[PDF]](https://arxiv.org/pdf/2504.14806)</div><p><em>IEEE Transactions on Vehicular Technology <strong>(TVT 2026)</strong></em></p><p><strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/pdf/2503.12350">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</a> [[PDF]](https://arxiv.org/pdf/2503.12350)</div><p><em>In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems <strong>(IROS 2025)</strong></em></p><p>Wenqing Kuang<em>, </em><em>&lt;u&gt;Xiongwei Zhao</em>&lt;/u&gt;**, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ieeexplore.ieee.org/document/11262787">TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather</a> [[PDF]](https://arxiv.org/pdf/2408.13802?)</div><p><em>IEEE Transactions on Image Processing <strong>(TIP 2025)</strong></em></p><p><strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Congcong Wen, Xu Zhu, Yang Wang, Haojie Bai, Wenhao Dou</p></article></div><div class="full-category"><h3>2D Perception and LLM</h3><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/abs/2512.12303">OMUDA: Omni-level Masking for Unsupervised Domain Adaptation in Semantic Segmentation</a></div><p><em><strong>(under review at TMM, 2025)</strong></em></p><p>Yang Ou, <strong>&lt;u&gt;Xiongwei Zhao#&lt;/u&gt;</strong>, Xinye Yang, Yihan Wang, Yicheng Di, Rong Yuan, Xieyuanli Chen and Xu Zhu</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/pdf/2502.16486">MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering</a> [[PDF]](https://arxiv.org/pdf/2502.16486)</div><p><em><strong>(Scientific Reports 2025)</strong></em></p><p>Caixiong Li<em>, </em><em>&lt;u&gt;Xiongwei Zhao</em>&lt;/u&gt;**, Jinhang Zhang, Xing Zhang, Qihao Sun, Zhou Wu</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ieeexplore.ieee.org/abstract/document/9999384">A real-time scene parsing network for autonomous maritime transportation</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/9999384)</div><p><em>IEEE Transactions on Instrumentation and Measurement <strong>(TIM 2022)</strong></em></p><p>Rundong Zhou, Yulong Gao, Yang Wang, Xingxiang Xie, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong></p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ieeexplore.ieee.org/abstract/document/9755264">Collision-free waterway segmentation for inland unmanned surface vehicles</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/9755264)</div><p><em>IEEE Transactions on Instrumentation and Measurement <strong>(TIM 2022)</strong></em></p><p>Rundong Zhou, Yulong Gao, Peng Wu, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Wenhao Dou, Chenyang Sun, Yu Zhong, Yang Wang</p></article></div><div class="full-category"><h3>Trajectory Planning and Control</h3><article class="full-paper"><div class="full-paper-title"><a href="https://link.springer.com/article/10.1007/s44443-025-00253-6">A PMBM forward-backward smoother for multi-target tracking of point sources</a> [[PDF]](https://link.springer.com/epdf/10.1007/s44443-025-00253-6?sharing_token=aspCP9dyz0-urlESOwsRxfe4RwlQNchNByi7wbcMAY57VDgZTIFEovuzobn_711JoMDnccGdOoO7WMH1U7GAOPiGYJ9gaDdhjJVcrF9kBMRLgo278qvS51IEzhzkR7utLuhu_ajX_aEYu56CoR3BT5HpVt__qLh-Bgt-PTAsBLI%3D)</div><p><em>Journal of King Saud University Computer and Information Sciences <strong>(J. King Saud Univ. Comput. Inf. Sci. 2025)</strong></em></p><p>Xingxiang Xie, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Zhumei Song, Kening Li</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/pdf/2508.03417">A Robust Cooperative Vehicle Coordination Framework for Intersection Crossing</a> [[PDF]](https://arxiv.org/pdf/2508.03417)</div><p><em>IEEE Transactions on Vehicular Technology <strong>(TVT 2025)</strong></em></p><p>Haojie Bai, Jiping Luo, Huafu Li, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Yang Wang</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://arxiv.org/abs/2508.21322">Robust Real-Time Coordination of CAVs: A Distributed Optimization Framework under Uncertainty</a> [[PDF]](https://arxiv.org/abs/2508.21322)</div><p><em><strong>(arXiv 2025)</strong></em></p><p>Haojie Bai, Yang Wang, Cong Guo, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Hai Zhu</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ieeexplore.ieee.org/abstract/document/10907325">Robust Motion Coordination with Covariance Steering Model Predictive Control in Bandwidth Limited Scenarios</a> [[PDF]](https://ieeexplore.ieee.org/abstract/document/10907325)</div><p><em>IEEE International Conference on Robotics and Biomimetics <strong>(ROBIO 2024)</strong></em></p><p>Haojie Bai, Hai Zhu, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Huafu Li, Yang Wang</p></article><article class="full-paper"><div class="full-paper-title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70041">Posterior Cramér–Rao lower bounds for extended target tracking with PMBM conjugate recursion</a> [[PDF]](https://www.researchgate.net/publication/384287230_Posterior_Cramer-Rao_lower_bounds_for_extended_target_tracking_with_PMBM_conjugate_recursion)</div><p><em>Electronics Letters <strong>(EL 2024)</strong></em></p><p>Xingxiang Xie, <strong>&lt;u&gt;Xiongwei Zhao&lt;/u&gt;</strong>, Zhumei Song, Kening Li</p></article></div></details></section>
+<section id="news"><h2>News</h2><ul class="news"><li><span class="date">2026.11</span><span>Invited talk on Thinker-WM at Harbin Institute of Technology, Shenzhen.</span></li><li><span class="date">2026.10</span><span>Thinker-WM technical report and open-source release. <a href="https://arxiv.org/abs/2610.18447">Paper</a> · <a href="https://thinkercosmos.ubtrobot.com/thinker-wm/">Project</a></span></li><li><span class="date">2026.07</span><span>Joined UBTECH Robotics as a Senior Researcher in World Models.</span></li><li><span class="date">2026.06</span><span>One paper accepted by IEEE IROS 2026.</span></li></ul></section>
+<section id="experience"><h2>Experience</h2><ul class="simple-list"><li></li><li><strong>2026.11–Present</strong> · Postdoctoral Researcher<div class="subline">Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences</div></li><li><strong>2026.07–Present</strong> · Senior Researcher in World Models<div class="subline">UBTECH Robotics</div></li><li><strong>2026.04–2026.07</strong> · Data Algorithms Lead<div class="subline">X Square Robot</div></li><li><strong>2020.10–2021.02</strong> · Research Intern<div class="subline">Narwal Technologies</div></li><li><strong>2020.05–2020.08</strong> · Research Intern<div class="subline">Huawei Technologies</div></li><li><strong>2020.01–2020.04</strong> · Research Assistant<div class="subline">The Hong Kong Polytechnic University</div></li></ul></section>
+<section id="education"><h2>Education</h2><ul class="simple-list"><li></li><li><strong>Ph.D. in Robotics</strong>, Harbin Institute of Technology (Shenzhen), 2021.09–2026.05<div class="subline">Shenzhen, China · Supervisor: Prof. Xu Zhu and Prof. Yang Wang</div></li><li><strong>M.S. in Mechanical Engineering</strong>, University of Science and Technology Beijing, 2018.09–2021.06<div class="subline">Beijing, China · Supervisor: Prof. Cunxiao Miao</div></li><li><strong>B.S. in Vehicle Engineering</strong>, Xi’an University of Science and Technology, 2014.09–2018.07<div class="subline">Xi’an, China · Supervisor: Prof. Shuangfeng Zhao</div></li></ul></section>
+<section id="honors"><h2>Honors and Awards</h2><ul class="simple-list"><li># Honors and Awards</li><li>2023 · China Scholarship Council (CSC) Scholarship</li><li>2021 · Excellent Graduate Student, University of Science and Technology Beijing</li><li>2018 · National Encouragement Scholarship</li><li>2018 · First Prize, Honda China Energy Saving Competition</li></ul></section>
+<section id="services"><h2>Academic Services</h2><p><strong>Invited Talks</strong></p><ul class="simple-list"><li>- <em>Thinker-WM: A Unified World Model for Embodied Intelligence</em>, Harbin Institute of Technology, Shenzhen, 2026.11.07.</li><li><em>3D Robust Perception: Improving Autonomous Driving Perception in Adverse Weather</em>, CVLife, 2025.10.16. <a href="https://www.bilibili.com/video/BV1dAWkz9ERS/">Video</a></li></ul><p><strong>Journal Reviewer</strong></p><p>IEEE TGRS · IEEE TIP · IEEE TASE · IEEE TIM · IEEE RA-L · IEEE TVT</p><p><strong>Conference Reviewer</strong></p><p>ICRA · IROS · ROBIO · ICCC</p></section>
+<footer class="footer">Complete homepage preview · White background · Minimal academic layout · This preview is separate from the live homepage.</footer>
+</div></body></html>
