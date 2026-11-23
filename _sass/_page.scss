@@ -515,3 +515,19 @@
     max-height: 220px;
   }
 }
+
+
+.publication-card--textonly {
+  padding-left: calc(34% + 1.5em);
+}
+
+.figure-pending {
+  color: #888;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .publication-card--textonly {
+    padding-left: 0;
+  }
+}
