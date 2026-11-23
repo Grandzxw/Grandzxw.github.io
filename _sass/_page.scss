@@ -410,3 +410,124 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* Simple, white-background research homepage */
+.featured-project,
+.publication-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5em;
+  padding: 1.4em 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.featured-project__figure {
+  flex: 0 0 43%;
+  max-width: 43%;
+}
+
+.publication-card__figure {
+  flex: 0 0 34%;
+  max-width: 34%;
+}
+
+.featured-project__figure img,
+.publication-card__figure img {
+  display: block;
+  width: 100%;
+  max-height: 250px;
+  object-fit: contain;
+  object-position: center;
+  background: #fff;
+  border: 1px solid #e7e7e7;
+  border-radius: 3px;
+  box-shadow: none;
+}
+
+.featured-project__content,
+.publication-card__content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.featured-project__content h3,
+.publication-card__content h3 {
+  margin-top: 0;
+  font-size: 1.08em;
+  line-height: 1.4;
+}
+
+.featured-project__content p,
+.publication-card__content p {
+  margin-bottom: 0.55em;
+}
+
+.figure-caption {
+  margin: 0.35em 0 0;
+  color: #777;
+  font-size: 0.82em;
+  text-align: center;
+}
+
+.project-links a {
+  margin-right: 0.8em;
+}
+
+.publication-meta,
+.news-date {
+  color: #777;
+  font-size: 0.92em;
+}
+
+.news-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.news-list li {
+  margin: 0 0 0.65em;
+  padding-left: 0;
+}
+
+.news-date {
+  display: inline-block;
+  min-width: 5.4em;
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 768px) {
+  .featured-project,
+  .publication-card {
+    display: block;
+  }
+
+  .featured-project__figure,
+  .publication-card__figure {
+    max-width: 100%;
+    width: 100%;
+    margin-bottom: 1em;
+  }
+
+  .featured-project__figure img,
+  .publication-card__figure img {
+    max-height: 220px;
+  }
+}
+
+
+.publication-card--textonly {
+  padding-left: calc(34% + 1.5em);
+}
+
+.figure-pending {
+  color: #888;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .publication-card--textonly {
+    padding-left: 0;
+  }
+}
