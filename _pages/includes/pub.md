@@ -4,19 +4,6 @@
 
 <div class="publication-card">
   <div class="publication-card__figure">
-    <img src="https://arxiv.org/html/2610.18447v3/x1.png" alt="Thinker-WM Figure 1: overall world-model architecture">
-    <p class="figure-caption">Figure 1 · Thinker-WM overview</p>
-  </div>
-  <div class="publication-card__content">
-    <h3><a href="https://arxiv.org/abs/2610.18447">Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence</a></h3>
-    <p class="publication-meta">Technical Report, 2026 · Core Author</p>
-    <p>Thinker Team, UBTECH</p>
-    <p><a href="https://arxiv.org/abs/2610.18447">Paper</a> · <a href="https://thinkercosmos.ubtrobot.com/thinker-wm/">Project</a> · <a href="https://github.com/UBTECH-Robot/Thinker-WM">Code</a></p>
-  </div>
-</div>
-
-<div class="publication-card">
-  <div class="publication-card__figure">
     <img src="https://raw.githubusercontent.com/Grandzxw/TripleMixer/main/figs/triplemixer.png" alt="TripleMixer Figure 5: overall denoising network architecture">
     <p class="figure-caption">Figure 5 · TripleMixer network overview</p>
   </div>
