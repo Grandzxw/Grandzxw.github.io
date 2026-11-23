@@ -4,12 +4,25 @@
 
 <div class="publication-card">
   <div class="publication-card__figure">
-    <img src="https://raw.githubusercontent.com/Grandzxw/TripleMixer/main/figs/triplemixer.png" alt="TripleMixer network architecture from the paper">
-    <p class="figure-caption">TripleMixer · paper framework</p>
+    <img src="https://arxiv.org/html/2610.18447v3/x1.png" alt="Thinker-WM Figure 1: overall world-model architecture">
+    <p class="figure-caption">Figure 1 · Thinker-WM overview</p>
+  </div>
+  <div class="publication-card__content">
+    <h3><a href="https://arxiv.org/abs/2610.18447">Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence</a></h3>
+    <p class="publication-meta">Technical Report, 2026 · Core Author</p>
+    <p>Thinker Team, UBTECH</p>
+    <p><a href="https://arxiv.org/abs/2610.18447">Paper</a> · <a href="https://thinkercosmos.ubtrobot.com/thinker-wm/">Project</a> · <a href="https://github.com/UBTECH-Robot/Thinker-WM">Code</a></p>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-card__figure">
+    <img src="https://raw.githubusercontent.com/Grandzxw/TripleMixer/main/figs/triplemixer.png" alt="TripleMixer Figure 5: overall denoising network architecture">
+    <p class="figure-caption">Figure 5 · TripleMixer network overview</p>
   </div>
   <div class="publication-card__content">
     <h3><a href="https://arxiv.org/abs/2408.13802">TripleMixer: A Triple-Domain Mixing Model for Point Cloud Denoising Under Adverse Weather</a></h3>
-    <p class="publication-meta">IEEE Transactions on Image Processing (TIP), 2025</p>
+    <p class="publication-meta">IEEE Transactions on Image Processing (TIP), 2025 · First Author</p>
     <p><strong>Xiongwei Zhao</strong>, Congcong Wen, Xu Zhu, Yang Wang, Haojie Bai, Wenhao Dou</p>
     <p><a href="https://arxiv.org/abs/2408.13802">Paper</a> · <a href="https://github.com/Grandzxw/TripleMixer">Code</a></p>
   </div>
@@ -17,22 +30,54 @@
 
 <div class="publication-card">
   <div class="publication-card__figure">
-    <img src="https://raw.githubusercontent.com/Grandzxw/ITDNet/main/fig/main.png" alt="ITDNet system architecture from the paper">
-    <p class="figure-caption">ITDNet · system architecture</p>
+    <img src="https://raw.githubusercontent.com/Grandzxw/ITDNet/main/fig/main.png" alt="ITDNet Figure 3: overall architecture">
+    <p class="figure-caption">Figure 3 · ITDNet overall architecture</p>
   </div>
   <div class="publication-card__content">
     <h3><a href="https://arxiv.org/abs/2504.14806">An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather</a></h3>
-    <p class="publication-meta">IEEE Transactions on Vehicular Technology (TVT), 2026</p>
+    <p class="publication-meta">IEEE Transactions on Vehicular Technology (TVT), 2026 · First Author</p>
     <p><strong>Xiongwei Zhao</strong>, Xieyuanli Chen, Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou, Qihao Sun</p>
     <p><a href="https://arxiv.org/abs/2504.14806">Paper</a> · <a href="https://github.com/Grandzxw/ITDNet">Code</a></p>
   </div>
 </div>
 
-## Other Selected Papers
+<div class="publication-card publication-card--textonly">
+  <div class="publication-card__content">
+    <h3><a href="https://ieeexplore.ieee.org/document/10445759">Multimodal Features and Accurate Place Recognition With Robust Optimization for LiDAR–Visual–Inertial SLAM</a></h3>
+    <p class="publication-meta">IEEE Transactions on Instrumentation and Measurement (TIM), 2024 · First Author</p>
+    <p><strong>Xiongwei Zhao</strong>, Congcong Wen, Sai Manoj Prakhya, Hongpei Yin, Rundong Zhou, Yijiao Sun, Jie Xu, Haojie Bai, Yang Wang</p>
+    <p><a href="https://ieeexplore.ieee.org/document/10445759">Paper</a> · <a href="https://github.com/Grandzxw/MMF-LVINS">Code</a></p>
+    <p class="figure-caption figure-pending">Original paper framework image will be added after the source PDF is available for direct extraction.</p>
+  </div>
+</div>
 
-- **SplatPose** · *IEEE/RSJ IROS 2025* · Co-first author. [Paper](https://arxiv.org/abs/2503.05174)
-- **Multimodal Features and Accurate Place Recognition with Robust Optimization for LiDAR–Visual–Inertial SLAM** · *IEEE TIM 2024* · First author. [Paper](https://ieeexplore.ieee.org/abstract/document/10445759) · [Code](https://github.com/Grandzxw/MMF-LVINS)
-- **ResLPR** · *IEEE/RSJ IROS 2025* · Co-first author. [Paper](https://arxiv.org/abs/2503.12350) · [Code](https://github.com/nubot-nudt/ResLPR)
+<div class="publication-card">
+  <div class="publication-card__figure">
+    <img src="https://arxiv.org/html/2503.05174v1/x2.png" alt="SplatPose Figure 2: overview of the SplatPose pipeline">
+    <p class="figure-caption">Figure 2 · SplatPose pipeline</p>
+  </div>
+  <div class="publication-card__content">
+    <h3><a href="https://arxiv.org/abs/2503.05174">SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting</a></h3>
+    <p class="publication-meta">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 · Co-first Author</p>
+    <p>Linqi Yang*, <strong>Xiongwei Zhao*</strong>, Qihao Sun, Ke Wang, Ao Chen, Peng Kang</p>
+    <p><a href="https://arxiv.org/abs/2503.05174">Paper</a> · <a href="https://github.com/Bellakira7/SplatPose">Code</a></p>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-card__figure">
+    <img src="https://arxiv.org/html/2503.12350v1/x2.png" alt="ResLPR Figure 2: ResLPRNet pipeline">
+    <p class="figure-caption">Figure 2 · ResLPRNet pipeline</p>
+  </div>
+  <div class="publication-card__content">
+    <h3><a href="https://arxiv.org/abs/2503.12350">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</a></h3>
+    <p class="publication-meta">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 · Co-first Author</p>
+    <p>Wenqing Kuang*, <strong>Xiongwei Zhao*</strong>, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, Xieyuanli Chen</p>
+    <p><a href="https://arxiv.org/abs/2503.12350">Paper</a> · <a href="https://github.com/nubot-nudt/ResLPR">Code</a></p>
+  </div>
+</div>
+
+## Complete Publications
 
 <details class="full-publications">
 <summary>Complete publication list</summary>
